@@ -1,0 +1,120 @@
+2020-03-27	inurl:hp/device/deviceinformation	Various Online Devices	Nicholas Doropoulos
+2020-03-27	intext:"EWS Data Collection and Use"	Various Online Devices	Nicholas Doropoulos
+2020-03-26	intitle:ThingsBoard inurl:8080/dashboard	Various Online Devices	Alexandros Pappas
+2020-03-18	filetype:psp intitle:"Motorola - FX9500"	Various Online Devices	Johnny Tech
+2020-03-16	inurl:"view/index.shtml"	Various Online Devices	Alexandros Pappas
+2020-03-12	inurl:"MultiCameraFrame?Mode=Motion"	Various Online Devices	Alexandros Pappas
+2020-03-11	"VB Viewer" inurl:/viewer/live/ja/live.html	Various Online Devices	Riku Dola
+2020-03-05	inurl:"nobody/loginQuick.htm"	Various Online Devices	yunaranyancat
+2020-03-05	intitle:"IP CAMERA Viewer" intext:"setting | Client setting"	Various Online Devices	Lupin
+2020-02-26	site:*/cgi-bin/webproc intext:"username"	Various Online Devices	Reza Abasi
+2020-02-20	inurl:/swagger/index.html	Various Online Devices	MuckT
+2020-02-10	intext:"Security is Off" intitle:"Namenode information"	Various Online Devices	vocuzi
+2020-01-30	"Firmware Version" intitle:"iLO" ProLiant Login -hpe.com -update	Various Online Devices	Bruno Schmid
+2020-01-21	intitle:rsview32 ext:asp	Various Online Devices	Srini
+2020-01-17	intitle:"WSO2 Management Console"	Various Online Devices	Alfie
+2020-01-06	intitle:"Home - Mongo Express"	Various Online Devices	Alfie
+2020-01-06	inurl:"8080/dashboard/" intitle:"Dashboard"	Various Online Devices	Reza Abasi
+2020-01-06	inurl:"/index.php?enter=guest"	Various Online Devices	Reza Abasi
+2019-11-21	inurl:CGI/Java/Serviceability?adapter=device.statistics.device	Various Online Devices	Miguel Santareno
+2019-11-04	intitle:"Marshall VS Server"	Various Online Devices	Reza Abasi
+2019-10-18	intext:{{szErrorTip}} inurl:/doc/page/login.asp	Various Online Devices	Oscar Gil Gutierrez
+2019-09-12	intitle:"openshift web console" inurl:console inurl:/console	Various Online Devices	Mohammed*_*
+2019-09-02	inurl:"/hp_login.html"	Various Online Devices	MiningOmerta
+2019-08-26	inurl:webArch/mainFrame filetype:cgi intext:"Web Image Monitor"	Various Online Devices	M. Cory Billington
+2019-08-22	intitle:"VideoEdge Admin Interface"	Various Online Devices	Steve George
+2019-08-20	site:member.*.*/auth/login	Various Online Devices	Reza Abasi
+2019-08-19	intitle:apache couchdb - futon: overview inurl:/_utils	Various Online Devices	Mohammed*_*
+2019-08-19	intitle:Grafana - Home inurl:/orgid	Various Online Devices	Mohammed*_*
+2019-08-15	inurl:ftp://ftp	Various Online Devices	Reza Abasi
+2019-08-15	inurl:ftp://ftp robots.txt	Various Online Devices	Reza Abasi
+2019-07-15	inurl:app/kibana intext:Loading Kibana	Various Online Devices	Francis Al Victoriano
+2019-07-03	inurl:8443 AND -intitle:8443 AND -intext:8443 prohibited|restricted|unauthorized	Various Online Devices	Dec0y
+2019-07-03	inurl:/_cat/indices/	Various Online Devices	baxter21
+2019-07-01	intext:" Welcome to DSL-2730B Web Management"	Various Online Devices	Hack Tube
+2019-05-30	intitle:"Pi-hole Admin Console"	Various Online Devices	Fabio Stoll
+2019-05-23	intitle:"LaserJet" "Device status" "Supplies summary"	Various Online Devices	Robert Marmorstein
+2019-05-15	inurl:/web-console/ServerInfo.jsp | inurl:/status?full=true	Various Online Devices	Miguel Santareno
+2019-05-15	inurl:/CFIDE/administrator/index.cfm | inurl:/CFIDE/componentutils/login.cfm | inurl:/CFIDE/main/ide.cfm | inurl:/CFIDE/wizards/	Various Online Devices	Miguel Santareno
+2019-04-23	intext:"series Network Configuration" AND intext:"canon"	Various Online Devices	EJUPI Békim
+2019-04-22	inurl:TOP/PRTINFO.HTML	Various Online Devices	EJUPI Békim
+2019-04-22	inurl:/clusters intitle:"kafka Manager"	Various Online Devices	Raj Kiran P
+2019-04-12	inurl:/pages/default.aspx | inurl:/páginas/default.aspx	Various Online Devices	Miguel Santareno
+2019-04-11	"Powered by ViewVC 1.0.3"	Various Online Devices	CrimsonTorso
+2019-04-08	inurl:/signin.php?ret=	Various Online Devices	Ramikan
+2019-04-05	"This service is powered by a copy of ZendTo"	Various Online Devices	CrimsonTorso
+2019-04-03	site:azurewebsites.net inurl:.gov | .mil | .edu	Various Online Devices	edm0nd
+2019-04-03	Find 3cx Phone System Management Console	Various Online Devices	Kevin Randall
+2019-03-18	"Powered by Trac 1.0.2"	Various Online Devices	CrimsonTorso
+2019-03-11	inurl:8000/portal/	Various Online Devices	Thalysson Sarmento
+2019-03-11	inurl:/portal/apis/fileExplorer/	Various Online Devices	Thalysson Sarmento
+2019-03-11	intitle:'Welcome to JBoss AS'	Various Online Devices	Lazy Hacker
+2019-03-07	"/1000/system_information.asp"	Various Online Devices	CrimsonTorso
+2019-03-01	intitle:"NetcamSC IP Address"	Various Online Devices	Hussain Vohra
+2019-02-20	allinurl:asdm.jnlp	Various Online Devices	Kevin Randall
+2019-02-19	inurl:/snap.cgi?&-getpic	Various Online Devices	Midori-SH
+2019-02-18	intitle:"Home-CUPS" intext:printers -mugs	Various Online Devices	Bruno Schmid
+2019-02-05	intitle:"Device(" AND intext:"Network Camera" AND "language:" AND "Password"	Various Online Devices	Brain Reflow
+2019-02-05	intitle:"Screenly OSE" intext:"Schedule Overview" AND "Active Assets" AND "Inactive Assets"	Various Online Devices	Brain Reflow
+2019-02-05	intext:"Any time & Any where" AND "Customer Login"	Various Online Devices	Brain Reflow
+2019-02-05	inurl:"fhem.cfg" AND 'fhem.cfg' -github	Various Online Devices	Brain Reflow
+2019-02-05	intitle:"Login - Xfinity" AND "Gateway > Login"	Various Online Devices	Brain Reflow
+2019-02-05	intitle:"webcam 7" inurl:'/gallery.html'	Various Online Devices	Brain Reflow
+2019-01-30	intitle:QueryService Web Service	Various Online Devices	Miguel Santareno
+2019-01-21	"Please click here to download and install the latest plug-in. Close your browser before installation."	Various Online Devices	Sohaib E.B.
+2019-01-17	inurl:/setup.cgi@next_file=	Various Online Devices	ManhNho
+2018-12-17	intitle: "Nexus Repository Manager"	Various Online Devices	Alfie
+2018-12-04	intitle:ProFTPD Admin - V1.04	Various Online Devices	XLOMBOX
+2018-12-04	inurl:/help/lang/en/help	Various Online Devices	TheCrypticSailor
+2018-12-04	inurl:public.php inurl:service ext:php	Various Online Devices	Rootkit_Pentester
+2018-12-04	intitle:"VB Viewer"	Various Online Devices	Brain Reflow
+2018-11-27	inurl:/certsrv/certrqus.asp	Various Online Devices	Mattias Borg
+2018-11-08	intitle:"VertrigoServ" + "Welcome to VertrigoServ"	Various Online Devices	ManhNho
+2018-11-08	allinurl:DialogHandler.aspx	Various Online Devices	Kevin Randall
+2018-11-08	allinurl:control/multiview	Various Online Devices	Drok3r
+2018-11-08	inurl:/sample/LvAppl/lvappl.htm	Various Online Devices	Drok3r
+2018-11-07	intitle:"Swagger UI - " + "Show/Hide"	Various Online Devices	ManhNho
+2018-11-06	inurl:"swagger-ui/index.html"	Various Online Devices	Sang Bui
+2018-10-31	intitle:"SQLiteManager" + intext:"Welcome to SQLiteManager version "	Various Online Devices	ManhNho
+2018-10-26	inurl:phpPgAdmin intext:"Cappuccino" | intext:"Blue/Green"	Various Online Devices	sandeep
+2018-10-23	inurl:/Portal/Portal.mwsl?PriNav=FileBrowser	Various Online Devices	dekingofcyber
+2018-10-19	inurl:home.tcl intitle:gaia	Various Online Devices	Bruno Schmid
+2018-09-17	site:drive.google.com /preview intext:movie inurl:flv | wmv | mp4 -pdf -edit -view	Various Online Devices	Akalanka Ekanayake
+2018-09-04	intext:"Build dashboard" intext:"Project" intext:"Plan" intext:"Build"	Various Online Devices	hehnope
+2018-08-27	inurl:"/gitweb.cgi?"	Various Online Devices	Alfie
+2018-07-03	(intitle:"plexpy - home" OR "intitle:tautulli - home") AND intext:"libraries"	Various Online Devices	Gerard Fuguet
+2018-06-26	intitle:"UltraDNS Client Redirection Service"	Various Online Devices	ManhNho
+2018-06-18	inurl:'/SSI/Auth/ip_configuration.htm'	Various Online Devices	Brain Reflow
+2018-06-18	intext:"Powered by www.yawcam.com"	Various Online Devices	ManhNho
+2018-06-14	intext:"default values: admin/1234"	Various Online Devices	ManhNho
+2018-06-06	intitle:'System Web Interface: WATTrouter M'	Various Online Devices	Brain Reflow
+2018-05-18	inurl:jpegpull.htm	Various Online Devices	Rootkit_Pentester
+2018-04-30	intitle:Munin :: overview	Various Online Devices	ManhNho
+2018-04-25	inurl:"mjpg/video.cgi?resolution="	Various Online Devices	ManhNho
+2018-04-17	intext:build:SVNTag= JBoss intitle:Administration Console inurl:web-console	Various Online Devices	Parth S. Patel
+2018-04-16	inurl:report.cgi?dashboard=	Various Online Devices	Rootkit_Pentester
+2018-04-13	inurl:":2083/login/?user="	Various Online Devices	Parth S. Patel
+2018-04-09	intext:"https://chat.whatsapp.com/invite/" intitle:"Your Search For Company/Subject/Whatever"	Various Online Devices	Carlos E. Vieira
+2018-04-03	ext:php + inurl:"ajaxfilemanager.php" + intext:"Current Folder Path"	Various Online Devices	p1x33l
+2018-03-14	intitle:"Yawcam" inurl:8081	Various Online Devices	Sohaib E.B.
+2018-03-12	inurl:control/camerainfo	Various Online Devices	Rootkit_Pentester
+2018-03-07	inurl::5601/app/kibana	Various Online Devices	Ziad Khalil
+2018-03-07	inurl:cloud_main.asp	Various Online Devices	MikiDiCalenella
+2018-02-26	inurl:public "Powered by SecureW2"	Various Online Devices	Rootkit_Pentester
+2018-02-13	"ADS-B Receiver Live Dump1090 Map "	Various Online Devices	Rootkit_Pentester
+2018-02-09	inurl:/add_vhost.php?lang=	Various Online Devices	Nisankh Acharjya
+2018-02-05	inurl:"/cgi-bin/filemanager/Manager.pl"	Various Online Devices	Jacobo Avariento
+2018-01-11	intitle:Armstrong Hot Water System Monitoring	Various Online Devices	ak1t4
+2018-01-09	inurl:embed.html inurl:dvr	Various Online Devices	Rootkit_Pentester
+2017-12-22	intitle:"Status & Control" + "Thermostat Status" +"HVAC Settings" +"Zone Temperature"	Various Online Devices	Ankit Anubhav
+2017-12-19	inurl:"apps/console/sepm"	Various Online Devices	Fu2x2000
+2017-12-07	inurl:"/websys/webArch/mainFrame.cgi" -hatana	Various Online Devices	Dxtroyer
+2017-11-29	inurl:"/address/speeddial.html?start" and intext:"Please configure the password" and intitle:"Brother"	Various Online Devices	Ankit Anubhav
+2017-11-28	inurl:"ews/setting/setews.htm"	Various Online Devices	Ankit Anubhav
+2017-11-24	"Use these fields to set or change the Administrator Password. When set, the Administrator Password is required before you can access and change configuration parameters. To disable the Administrator Password, leave the entries blank."	Various Online Devices	Ankit Anubhav
+2017-10-23	inurl:guestimage.html	Various Online Devices	anonymous
+2017-10-23	inurl:"set_config_networkIPv6.html"	Various Online Devices	anonymous
+2017-08-15	inurl:share.cgi?ssid=	Various Online Devices	anonymous
+2017-08-14	inurl:"img/main.cgi?next_file"	Various Online Devices	anonymous
+2017-07-31	inurl:scgi-bin intitle:"NETGEAR ProSafe"	Various Online Devices	anonymous
+2017-07-31	inurl:"/api/index.php" intitle:UniFi	Various Online Devices	anonymous

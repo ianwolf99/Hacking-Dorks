@@ -1,0 +1,122 @@
+2020-03-23	ext:cfg tac_plus.cfg	Files Containing Juicy Info	Alexandros Pappas
+2020-03-20	inurl:-cfg intext:"password cipher"	Files Containing Juicy Info	Alexandros Pappas
+2020-03-20	inurl:cfg intext:"srb.username.1=" "srb.password.1 = "	Files Containing Juicy Info	Alexandros Pappas
+2020-03-20	intext:"dspace.cfg" "db.username = dspace"	Files Containing Juicy Info	Alexandros Pappas
+2020-03-20	intitle:"index of" "mysql.properties"	Files Containing Juicy Info	Rohit Gautam
+2020-03-19	intext:"index of /" "token.yml"	Files Containing Juicy Info	Rohit Gautam
+2020-03-19	"# Kickstart" filetype:cfg	Files Containing Juicy Info	Alexandros Pappas
+2020-03-18	intitle:"index of" "configuration.yml"	Files Containing Juicy Info	Alexandros Pappas
+2020-03-18	intitle:"index of" database.yml	Files Containing Juicy Info	Alexandros Pappas
+2020-03-17	intitle:"index of" "backup.bak"	Files Containing Juicy Info	Piyush Jadhav
+2020-03-17	intitle:"index of" "backup.yml"	Files Containing Juicy Info	Rohit Gautam
+2020-03-17	intitle:"index of" "secrets.yml"	Files Containing Juicy Info	Rohit Gautam
+2020-03-17	intitle:"index of" "settings.yml"	Files Containing Juicy Info	Rohit Gautam
+2020-03-10	intitle:"index of" "access_token"	Files Containing Juicy Info	Keval Sheth
+2020-03-09	intitle:"index of" "settings.py"	Files Containing Juicy Info	Reza Abasi
+2020-03-09	intitle:"index of" accounts.xml	Files Containing Juicy Info	Reza Abasi
+2020-03-05	intitle:"index of" "php.ini"	Files Containing Juicy Info	Reza Abasi
+2020-03-03	intext:"index of /" "auth.json"	Files Containing Juicy Info	Sagar Banwa
+2020-03-02	intitle:"index of" /"privatekey.txt" OR "private key.txt"	Files Containing Juicy Info	Juveria Banu
+2020-02-25	intitle:index.of "cacert.pem"	Files Containing Juicy Info	Malkit Singh
+2020-02-20	intitle:"index of" "smtp.log"	Files Containing Juicy Info	Magrabur Alam Sofily
+2020-02-20	intitle:"index of/" "db.sql"	Files Containing Juicy Info	Ishan Saha
+2020-02-20	intitle: index of "*db.tar.gz"	Files Containing Juicy Info	berat isler
+2020-02-20	intitle:"index of" "env.bak"	Files Containing Juicy Info	Hilary Soita
+2020-02-19	intitle:index.of "awsconfig.json"	Files Containing Juicy Info	Hilary Soita
+2020-02-17	intext:"SECRET_KEY" ext|py inurl:mysite -site:stackoverflow.com -site:github.com	Files Containing Juicy Info	JadeWolf
+2020-02-14	intitle:"index.of" intext:"api.txt"	Files Containing Juicy Info	CANCOM #RedTeam
+2020-02-14	intitle:"index.of" intext:"access.txt"	Files Containing Juicy Info	CANCOM #RedTeam
+2020-02-14	intitle:index.of "keys.txt"	Files Containing Juicy Info	CANCOM #RedTeam
+2020-02-03	accdb OR accde intitle:"index of" -pub -google -books	Files Containing Juicy Info	Bruno Schmid
+2020-02-03	filetype:env intext:APP_NAME	Files Containing Juicy Info	Puneet Choudhary
+2020-02-03	krb.conf OR krb.realms intitle:"index of" -public -archive -packages -pub	Files Containing Juicy Info	Bruno Schmid
+2020-01-29	-pub -pool intitle:"index of" db.key OR server.key OR ftp.key OR exchange.key OR host.key OR mail.key	Files Containing Juicy Info	Bruno Schmid
+2020-01-27	intitle:"index of" crontab.conf	Files Containing Juicy Info	Bruno Schmid
+2020-01-27	intitle:"index of" ticket.conf	Files Containing Juicy Info	Bruno Schmid
+2020-01-27	intitle:"index of" lesshsQ/ OR .lesshst/ -pool -pub	Files Containing Juicy Info	Bruno Schmid
+2020-01-23	"fetchmailrc" intitle:"index of" -linux	Files Containing Juicy Info	Bruno Schmid
+2020-01-21	inurl:"_notes/dwsync.xml"	Files Containing Juicy Info	Marcelo Ruz S.
+2020-01-09	intitle:"index of" "wp-security-audit-log"	Files Containing Juicy Info	Reza Abasi
+2019-12-30	"MailChimp API error:" ext:log	Files Containing Juicy Info	Michael Meade
+2019-12-18	inurl:"/fmi/webd" intitle:"FileMaker WebDirect"	Files Containing Juicy Info	Leandro Naranjo
+2019-12-16	[ipn] ext:log	Files Containing Juicy Info	Eka Syahwan
+2019-12-12	inurl:"web.config" & intext:"Data Source" & "User ID" & "Password" & "connectionString" & ext:config -git	Files Containing Juicy Info	Aamir Rehman
+2019-12-10	Navicat MySQL Data Transfer filetype:sql	Files Containing Juicy Info	Eka Syahwan
+2019-12-02	ext:sql intext:@gmail.com intext:e10adc3949ba59abbe56e057f20f883e	Files Containing Juicy Info	Parth S. Patel
+2019-11-22	filetype:"xls | xlsx | doc | docx | ppt | pptx | pdf" site:gov "FOUO" | "NOFORN" | "Confidential"	Files Containing Juicy Info	shivaGprasadh
+2019-11-21	intext:"@outlook.com" ext:log	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-20	intext:"@gmail.com" ext:log	Files Containing Juicy Info	Reza Abasi
+2019-11-20	intitle:"index of" "mail.log"	Files Containing Juicy Info	Reza Abasi
+2019-11-12	intitle:index.of "access.conf"	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-12	intitle:"index of" "ssh.yml"	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-11	intitle:"index of" "databases.yml"	Files Containing Juicy Info	Reza Abasi
+2019-11-05	intitle:index.of "private-key.pem"	Files Containing Juicy Info	Pankaj Kumar Thakur
+2019-11-05	intitle:"index of" inurl:ftp intext:logs	Files Containing Juicy Info	Dhaiwat Mehta
+2019-11-05	db_password filetype:env -site:github.com -git	Files Containing Juicy Info	Dhaiwat Mehta
+2019-11-04	"accounts.xlsx" ext:xlsx	Files Containing Juicy Info	Rohitreddy
+2019-11-04	intitle:index.of "userpass.txt"	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-04	intitle:index.of "credential.txt"	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-04	intitle:index.of "key.txt"	Files Containing Juicy Info	Ismail Tasdelen
+2019-10-29	site:mypublicinbox.com intitle:email	Files Containing Juicy Info	Gerard Fuguet
+2019-10-22	site:*.freshservice.com/support/solutions	Files Containing Juicy Info	MiningOmerta
+2019-10-18	intitle:"Index Of" intext:sftp-config.json	Files Containing Juicy Info	Maxime Westhoven
+2019-10-18	inurl:"/.vscode/ftp-sync.json"	Files Containing Juicy Info	Maxime Westhoven
+2019-10-18	inurl:"/.vscode/sftp.json"	Files Containing Juicy Info	Maxime Westhoven
+2019-10-09	intitle:"index of" "web.config.txt"	Files Containing Juicy Info	Reza Abasi
+2019-09-27	site:*/wp-settings.php	Files Containing Juicy Info	Reza Abasi
+2019-09-25	site:*/logs/error.log	Files Containing Juicy Info	Reza Abasi
+2019-09-24	inurl:credentials.txt -github -git -gitlab	Files Containing Juicy Info	Dhaiwat Mehta
+2019-09-24	site:*/*/conf/httpd.conf	Files Containing Juicy Info	Reza Abasi
+2019-09-17	index.of "crossdomain.xml"	Files Containing Juicy Info	Mayur Parmar
+2019-09-17	site:ftp.*.* index of: manifest.xml	Files Containing Juicy Info	Deepak Kumar
+2019-09-16	intitle:"index of" inurl:/*sql* filetype:log	Files Containing Juicy Info	The Dexter
+2019-09-16	intitle:"index of" "debian.conf"	Files Containing Juicy Info	Paras Arora
+2019-09-13	intitle:"index of" "/mysql.log"	Files Containing Juicy Info	Reza Abasi
+2019-09-13	inurl:/application/config/database.php*	Files Containing Juicy Info	Renato Hormazabal
+2019-09-11	site:*/sitemap/sitemap.xml	Files Containing Juicy Info	Reza Abasi
+2019-09-10	"Scanned by Camscanner" filetype:pdf	Files Containing Juicy Info	Surya Teja Masanam
+2019-09-03	inurl: /config.txt ext:txt intext:	Files Containing Juicy Info	Abhishek Samaddar
+2019-08-28	site:*/robots.txt intext:User-agent:	Files Containing Juicy Info	Reza Abasi
+2019-08-28	site:*/phpMyAdmin/robots.txt	Files Containing Juicy Info	Reza Abasi
+2019-08-26	intitle:"index of" "debian.cnf"	Files Containing Juicy Info	Reza Abasi
+2019-08-26	site:*/log/access_log	Files Containing Juicy Info	Reza Abasi
+2019-08-22	intitle:index.of.?.config.ini	Files Containing Juicy Info	Midhun Biju
+2019-08-22	ext:sql intext:"-- phpMyAdmin SQL Dump" -site:github.*	Files Containing Juicy Info	Reza Abasi
+2019-08-21	site:docs.google.com inurl:forms | viewanalytics intext:see previous responses	Files Containing Juicy Info	Mohammed*_*
+2019-08-20	site:*/phpinfo.php intitle:"phpinfo()"	Files Containing Juicy Info	Reza Abasi
+2019-08-20	ext:sql intext:contrasena	Files Containing Juicy Info	Nicolas Varona Sosa
+2019-08-19	ext:sql intext:clave	Files Containing Juicy Info	Cristi Vlad
+2019-08-12	inurl:robots.txt site:gov + intext:password	Files Containing Juicy Info	Vaibhav Pareek
+2019-08-02	s3 site:amazonaws.com filetype:log	Files Containing Juicy Info	Mohammed*_*
+2019-07-30	intitle:"Index of" pass.txt	Files Containing Juicy Info	Mayur Parmar
+2019-07-30	inurl:/filedown.php?file=	Files Containing Juicy Info	Sayak Naskar
+2019-07-29	filetype:xls "nomina"	Files Containing Juicy Info	Drok3r
+2019-07-24	site:*.com intitle:"Thank You For Your Order" intext:Click Here to Download	Files Containing Juicy Info	Ayan Saha
+2019-07-12	site:https://docs.google.com/spreadsheets edit	Files Containing Juicy Info	Eliezer Rabadon
+2019-07-11	site:https://docs.google.com/spreadsheets responses	Files Containing Juicy Info	Francis Al Victoriano
+2019-07-08	site:https://docs.google.com/forms viewanalytics	Files Containing Juicy Info	Eliezer Rabadon
+2019-07-08	site:https://docs.google.com/forms responses	Files Containing Juicy Info	Eliezer Rabadon
+2019-06-24	MAIL_HOST filetype:env	Files Containing Juicy Info	Francis Al Victoriano
+2019-06-24	inurl:"paypal.log" ext:log	Files Containing Juicy Info	Francis Al Victoriano
+2019-06-20	intitle:"index of" unattend.xml	Files Containing Juicy Info	Bruno Schmid
+2019-06-19	site:https://docs.google.com/document/d/ password	Files Containing Juicy Info	anonymous
+2019-06-18	site:https://docs.google.com/spreadsheets/d/ password	Files Containing Juicy Info	anonymous
+2019-06-17	DB_USERNAME filetype:env	Files Containing Juicy Info	Francis Al Victoriano
+2019-06-05	inurl:old "index of" "wp-config.php"	Files Containing Juicy Info	Chris Rogers
+2019-06-04	s3 site:amazonaws.com filetype:sql	Files Containing Juicy Info	Dec0y
+2019-06-03	"/FTPSVC2" intitle:"index of"	Files Containing Juicy Info	Bruno Schmid
+2019-06-03	intitle:"index of" "W3SVC1"	Files Containing Juicy Info	Bruno Schmid
+2019-05-31	intext:user.sql intitle:index.of	Files Containing Juicy Info	Dec0y
+2019-05-31	intext:backup.sql intitle:index.of	Files Containing Juicy Info	Dec0y
+2019-05-31	s3 site:amazonaws.com filetype:xls login	Files Containing Juicy Info	acc3ssp0int
+2019-05-29	filetype:inc php -site:github.com -site:sourceforge.net	Files Containing Juicy Info	Dec0y
+2019-05-23	inurl:github.com intext:.ftpconfig -issues	Files Containing Juicy Info	vocuzi
+2019-05-16	site:global.gotomeeting.com inurl:recording	Files Containing Juicy Info	edm0nd
+2019-05-13	intext:"config" intitle:"Index of .ssh"	Files Containing Juicy Info	vocuzi
+2019-05-13	"keyed alike" site:gov filetype:pdf	Files Containing Juicy Info	edm0nd
+2019-05-08	"php class JConfig" AND inurl:configuration AND ext:"bak | old | pdf | php | txt"	Files Containing Juicy Info	Isaiah Puzon
+2019-05-07	jmeter.log filetype:log	Files Containing Juicy Info	ManhNho
+2019-05-06	intext:"@gmail.com" AND intext:"@yahoo.com" filetype:sql	Files Containing Juicy Info	Jayson Zabate
+2019-05-06	intext:"the WordPress" inurl:wp-config ext:txt	Files Containing Juicy Info	Isaiah Puzon
+Showing 1 to 120 of 710 entries
+

@@ -1,0 +1,62 @@
+2016-05-12	inurl:demo.browse.php intitle:getid3	Vulnerable Files	anonymous
+2013-09-24	-site:simplemachines.org "These are the paths and URLs to your SMF installation"	Vulnerable Files	anonymous
+2011-08-25	allinurl:forcedownload.php?file=	Vulnerable Files	DigiP
+2011-05-28	ionCube Loader Wizard information disclosure	Vulnerable Files	anonymous
+2011-05-27	vBulletin Install Page Detection	Vulnerable Files	anonymous
+2006-09-13	inurl:"simplenews/admin"	Vulnerable Files	anonymous
+2006-02-28	inurl:updown.php | intext:"Powered by PHP Uploader Downloader"	Vulnerable Files	anonymous
+2005-12-19	inurl:guestbook/guestbooklist.asp "Post Date" From	Vulnerable Files	anonymous
+2005-10-26	intitle:"CJ Link Out V1"	Vulnerable Files	anonymous
+2005-09-26	"powered by mailgust"	Vulnerable Files	anonymous
+2005-09-26	"powered by my little forum"	Vulnerable Files	anonymous
+2005-09-25	intitle:"Control panel" "Control Panel Login" ArticleLive inurl:admin -demo	Vulnerable Files	anonymous
+2005-09-25	inurl:cartwiz/store/index.asp	Vulnerable Files	anonymous
+2005-09-13	"e107.org 2002/2003" inurl:forum_post.php?nt	Vulnerable Files	anonymous
+2005-09-13	"maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal	Vulnerable Files	anonymous
+2005-09-11	"Warning:" "Cannot execute a blank command in"	Vulnerable Files	anonymous
+2005-09-11	"Mail-it Now!" intitle:"Contact form" | inurl:contact.php	Vulnerable Files	anonymous
+2005-09-08	"Powered by Xcomic"	Vulnerable Files	anonymous
+2005-08-08	"Powered by FunkBoard"	Vulnerable Files	anonymous
+2005-08-07	inurl:nquser.php filetype:php	Vulnerable Files	anonymous
+2005-08-07	"Powered by Gravity Board"	Vulnerable Files	anonymous
+2005-08-07	"Powered by SilverNews"	Vulnerable Files	anonymous
+2005-08-07	PHPFreeNews inurl:Admin.php	Vulnerable Files	anonymous
+2005-08-07	"Powered by FlexPHPNews" inurl:news | inurl:press	Vulnerable Files	anonymous
+2005-08-07	"Powered By: Simplicity oF Upload" inurl:download.php | inurl:upload.php	Vulnerable Files	anonymous
+2005-07-26	filetype:mdb "standard jet" (password | username | user | pass)	Vulnerable Files	anonymous
+2005-06-03	intitle:"PHPstat" intext:"Browser" intext:"PHPstat setup"	Vulnerable Files	anonymous
+2005-05-20	intitle:"SSHVnc Applet"OR intitle:"SSHTerm Applet"	Vulnerable Files	anonymous
+2005-04-27	inurl:cgi-bin inurl:bigate.cgi	Vulnerable Files	anonymous
+2004-12-01	filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)	Vulnerable Files	anonymous
+2004-11-30	filetype:mdb inurl:"news/news"	Vulnerable Files	anonymous
+2004-11-28	inurl:php.exe filetype:exe -example.com	Vulnerable Files	anonymous
+2004-11-18	"Powered by Land Down Under 601"	Vulnerable Files	anonymous
+2004-11-16	ext:asp inurl:DUgallery intitle:"3.0" -site:dugall	Vulnerable Files	anonymous
+2004-11-16	ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site:duware.com	Vulnerable Files	anonymous
+2004-11-04	filetype:cgi inurl:cachemgr.cgi	Vulnerable Files	anonymous
+2004-10-31	"powered by YellDL"	Vulnerable Files	anonymous
+2004-10-27	"File Upload Manager v1.3" "rename to"	Vulnerable Files	anonymous
+2004-10-27	inurl:click.php intext:PHPClickLog	Vulnerable Files	anonymous
+2004-10-26	intitle:"phpremoteview" filetype:php "Name, Size,	Vulnerable Files	anonymous
+2004-10-19	intitle:"ASP FileMan" Resend -site:iisworks.com	Vulnerable Files	anonymous
+2004-10-16	ezBOO "Administrator Panel" -cvs	Vulnerable Files	anonymous
+2004-10-14	intitle:mywebftp "Please enter your password"	Vulnerable Files	anonymous
+2004-10-14	intitle:"Directory Listing" "tree view"	Vulnerable Files	anonymous
+2004-10-09	inurl:changepassword.cgi -cvs	Vulnerable Files	anonymous
+2004-10-06	inurl:" WWWADMIN.PL" intitle:"wwwadmin"	Vulnerable Files	anonymous
+2004-10-05	inurl:cgi.asx?StoreID	Vulnerable Files	anonymous
+2004-09-18	filetype:lit lit (books|ebooks)	Vulnerable Files	anonymous
+2004-09-13	"create the Super User" "now by clicking here"	Vulnerable Files	anonymous
+2004-09-10	intitle:gallery inurl:setup "Gallery configuration"	Vulnerable Files	anonymous
+2004-09-09	inurl:"nph-proxy.cgi" "Start browsing through this CGI-based proxy"	Vulnerable Files	anonymous
+2004-09-06	inurl:"plog/register.php"	Vulnerable Files	anonymous
+2004-09-06	link:http://www.toastforums.com/	Vulnerable Files	anonymous
+2004-08-30	inurl:robpoll.cgi filetype:cgi	Vulnerable Files	anonymous
+2004-08-20	intitle:"PHP Explorer" ext:php (inurl:phpexplorer.php | inurl:list.php | inurl:browse.php)	Vulnerable Files	anonymous
+2004-08-13	ext:cgi inurl:ubb6_test.cgi	Vulnerable Files	anonymous
+2004-08-01	filetype:wsdl wsdl	Vulnerable Files	anonymous
+2004-08-01	filetype:inc inc intext:setcookie	Vulnerable Files	anonymous
+2004-07-21	filetype:cnf my.cnf -cvs -example	Vulnerable Files	anonymous
+2004-06-16	filetype:php inurl:"viewfile" -"index.php" -"idfil	Vulnerable Files	anonymous
+2004-06-10	intitle:"Index of /" modified php.exe	Vulnerable Files	anonymous
+2003-06-24	TOO MANY

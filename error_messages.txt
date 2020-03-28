@@ -1,0 +1,115 @@
+2020-03-04	intext:"sf_app" + "frontend sf_app_base_cache_dir:"	Error Messages	ex16x41
+2019-11-11	intitle:"Error log for /LM/"	Error Messages	Dhaiwat Mehta
+2019-11-11	inurl:elmah.axd ext:axd	Error Messages	Dhaiwat Mehta
+2019-10-31	inurl:"/errors/report.php" intext:"There has been an error processing your request"	Error Messages	Reza Abasi
+2019-10-07	site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"	Error Messages	Reza Abasi
+2019-10-04	site:*/wp-includes/Requests/php_errorlog	Error Messages	Reza Abasi
+2019-09-30	site:*/cgi-sys/defaultwebpage.cgi intext:"SORRY!"	Error Messages	Reza Abasi
+2019-09-25	site:*/cgi-sys/suspendedpage.cgi intitle:"Account Suspended"	Error Messages	Reza Abasi
+2019-09-16	site:*/Shibboleth.sso/SAML2/POST	Error Messages	Reza Abasi
+2019-09-13	site:*/404/404.html intitle:"404"	Error Messages	Reza Abasi
+2019-05-29	filetype:php "Notice: Undefined variable: data in" -forum	Error Messages	Dec0y
+2019-04-10	site:com inurl:jboss filetype:log -github.com	Error Messages	botsec0
+2019-03-11	inurl:/php-errors.log filetype:log	Error Messages	Thalysson Sarmento
+2019-01-02	"dispatch=debugger."	Error Messages	deadroot
+2018-11-21	"syd_apply.cfm"	Error Messages	CrimsonTorso
+2018-04-25	inurl:?wp-commentsrss2.php -git	Error Messages	ManhNho
+2017-11-27	"CakeRoutingException" -site:github.com -site:stackoverflow.com -site:cakephp.org"	Error Messages	Kiran S
+2017-07-26	inurl:".php?id=" "You have an error in your SQL syntax"	Error Messages	anonymous
+2017-06-13	intitle:"CGIWrap Error"	Error Messages	anonymous
+2017-05-15	"--- WebView Livescope Http Server Error ---" -git	Error Messages	anonymous
+2017-03-27	"Below is a rendering of the page up to the first error." ext:xml	Error Messages	anonymous
+2016-08-16	inurl:index of driver.php?id=	Error Messages	anonymous
+2016-06-22	intext:"expects parameter 1 to be resource, boolean given" filetype:php	Error Messages	anonymous
+2016-05-04	intitle:"Struts Problem Report" intext:"development mode is enabled."	Error Messages	anonymous
+2016-04-05	inurl:"id=" & intext:"MySQL Error: 1064" & "Session halted."	Error Messages	anonymous
+2016-04-01	intitle:"DSM Terminator [ ABORT ]" | inurl:"./com.sap.portal.dsm.Terminator"	Error Messages	anonymous
+2016-03-29	inurl:/siteminderagent/ | app:"Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: /siteminderagent/"	Error Messages	anonymous
+2016-03-29	inurl:/smpwservices.fcc | "/lm_private/CkeSetter.aspx"	Error Messages	anonymous
+2016-03-10	inurl:/console-selfservice/common/scripts/calendar/ipopeng.htm	Error Messages	anonymous
+2016-02-08	inurl:/nesp/app	Error Messages	anonymous
+2016-01-07	inurl:/SAML2/SOAP/ | inurl:/SAML2/POST	Error Messages	anonymous
+2015-12-08	inurl:/uniquesig0/ or inurl:/uniquesig0/InternalSite/	Error Messages	anonymous
+2015-11-23	inurl:index.php?id= intext:"mysql_fetch_array"	Error Messages	anonymous
+2015-09-17	intitle:Content Server Error IdcService=DOC_INFO	Error Messages	anonymous
+2015-09-11	intitle:"Whoops! There was an error."	Error Messages	anonymous
+2015-08-28	intitle:Error-javax.el.ELException+error+xhtml	Error Messages	anonymous
+2015-08-27	intitle:Error Page pageWrapper.jsp?	Error Messages	anonymous
+2015-08-19	intext:"Unexpected Problem Occurred!" ext:aspx	Error Messages	anonymous
+2014-02-05	"[function.getimagesize]: failed to open stream: No such file or directory in"	Error Messages	anonymous
+2014-02-05	intext:"Access denied for" intitle:"Shopping cart"	Error Messages	anonymous
+2013-04-09	inurl:advsearch.php?module= & intext:sql syntax	Error Messages	anonymous
+2012-12-06	intext:"Fatal error: Class 'Red_Action' not found in"	Error Messages	anonymous
+2012-08-21	"CHARACTER_SETS" "COLLATION_CHARACTER_SET_APPLICABILITY"	Error Messages	anonymous
+2012-05-15	inurl:"*.php?*=*.php" intext:"Warning: include" -inurl:.html -site:"php.net" -site:"stackoverflow.com" -inurl:"*forums*"	Error Messages	anonymous
+2011-01-21	inurl:"index.php?m=content+c=rss+catid=10"	Error Messages	anonymous
+2010-12-08	"plugins/wp-db-backup/wp-db-backup.php"	Error Messages	anonymous
+2010-11-11	allintext:"fs-admin.php"	Error Messages	DigiP
+2006-06-15	intitle:"Apache Tomcat" "Error Report"	Error Messages	anonymous
+2006-04-25	"Warning:" "failed to open stream: HTTP request failed" "on line"	Error Messages	anonymous
+2006-04-25	"Warning: Division by zero in" "on line" -forum	Error Messages	anonymous
+2006-04-25	"Unable to jump to row" "on MySQL result index" "on line"	Error Messages	anonymous
+2006-04-25	"Warning: Bad arguments to (join|implode) () in" "on line" -help -forum	Error Messages	anonymous
+2006-04-25	"Warning: mysql_connect(): Access denied for user: '*@*" "on line" -help -forum	Error Messages	anonymous
+2006-03-13	filetype:asp + "[ODBC SQL"	Error Messages	anonymous
+2005-09-25	"Warning:" "SAFE MODE Restriction in effect." "The script whose uid is" "is not allowed to access owned by uid 0 in" "on line"	Error Messages	anonymous
+2005-09-25	"Warning: Supplied argument is not a valid File-Handle resource in"	Error Messages	anonymous
+2005-08-16	"There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."	Error Messages	anonymous
+2005-04-26	intitle:"Default PLESK Page"	Error Messages	anonymous
+2005-04-26	"Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php	Error Messages	anonymous
+2005-04-07	"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread	Error Messages	anonymous
+2005-04-05	intitle:"404 SC_NOT_FOUND"	Error Messages	anonymous
+2005-01-26	intext:"Error Message : Error loading required libraries."	Error Messages	anonymous
+2004-11-28	"Warning: mysql_query()" "invalid query"	Error Messages	anonymous
+2004-11-13	intitle:Configuration.File inurl:softcart.exe	Error Messages	anonymous
+2004-10-16	"The script whose uid is " "is not allowed to access"	Error Messages	anonymous
+2004-09-07	databasetype. Code : 80004005. Error Description :	Error Messages	anonymous
+2004-08-25	"Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"	Error Messages	anonymous
+2004-08-14	filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"	Error Messages	anonymous
+2004-07-29	"error found handling the request" cocoon filetype:xml	Error Messages	anonymous
+2004-07-26	"ASP.NET_SessionId" "data source="	Error Messages	anonymous
+2004-07-16	filetype:php inurl:"logging.php" "Discuz" error	Error Messages	anonymous
+2004-07-16	"ORA-12541: TNS:no listener" intitle:"error occurred"	Error Messages	anonymous
+2004-07-16	"Internal Server Error" "server at"	Error Messages	anonymous
+2004-07-14	PHP application warnings failing "include_path"	Error Messages	anonymous
+2004-07-09	intext:"Warning: Failed opening" "on line" "include_path"	Error Messages	anonymous
+2004-06-24	intitle:"Error Occurred While Processing Request"	Error Messages	anonymous
+2004-06-24	intitle:"htsearch error" ht://Dig error	Error Messages	anonymous
+2004-06-15	intitle:"Error using Hypernews" "Server Software"	Error Messages	anonymous
+2004-05-28	"Invision Power Board Database Error"	Error Messages	anonymous
+2004-04-28	intitle:"Execution of this script not permitted"	Error Messages	anonymous
+2004-04-19	intitle:"Error Occurred" "The error occurred in" filetype:cfm	Error Messages	anonymous
+2004-03-16	"Fatal error: Call to undefined function" -reply -the -next	Error Messages	anonymous
+2004-03-16	filetype:asp "Custom Error Message" Category Source	Error Messages	anonymous
+2004-03-11	warning "error on line" php sablotron	Error Messages	anonymous
+2004-03-04	intitle:"the page cannot be found" inetmgr	Error Messages	anonymous
+2004-03-04	"access denied for user" "using password"	Error Messages	anonymous
+2004-03-04	intitle:"the page cannot be found" "2004 microsoft corporation"	Error Messages	anonymous
+2004-03-04	inurl:sitebuildercontent	Error Messages	anonymous
+2004-03-04	inurl:sitebuilderfiles	Error Messages	anonymous
+2004-03-04	inurl:sitebuilderpictures	Error Messages	anonymous
+2004-03-04	intitle:"the page cannot be found" "internet information services"	Error Messages	anonymous
+2004-03-04	intitle:"500 Internal Server Error" "server at"	Error Messages	anonymous
+2004-03-04	"Supplied argument is not a valid PostgreSQL result"	Error Messages	anonymous
+2004-03-04	"Can't connect to local" intitle:warning	Error Messages	anonymous
+2004-03-04	intitle:"Under construction" "does not currently have"	Error Messages	anonymous
+2004-03-04	"PostgreSQL query failed: ERROR: parser: parse error"	Error Messages	anonymous
+2004-03-04	"Warning: Cannot modify header information - headers already sent"	Error Messages	anonymous
+2004-03-04	An unexpected token "END-OF-STATEMENT" was found	Error Messages	anonymous
+2004-03-04	"detected an internal error [IBM][CLI Driver][DB2/6000]"	Error Messages	anonymous
+2004-03-04	"A syntax error has occurred" filetype:ihtml	Error Messages	anonymous
+2004-03-04	"An illegal character has been found in the statement" -"previous message"	Error Messages	anonymous
+2004-03-04	"Syntax error in query expression " -the	Error Messages	anonymous
+2004-03-04	"ORA-00921: unexpected end of SQL command"	Error Messages	anonymous
+2004-03-04	"Incorrect syntax near" -the	Error Messages	anonymous
+2004-03-04	"Incorrect syntax near"	Error Messages	anonymous
+2004-03-04	"Unclosed quotation mark before the character string"	Error Messages	anonymous
+2004-03-04	"ORA-00933: SQL command not properly ended"	Error Messages	anonymous
+2004-03-04	"ORA-00936: missing expression"	Error Messages	anonymous
+2004-03-04	"mySQL error with query"	Error Messages	anonymous
+2004-03-04	"You have an error in your SQL syntax near"	Error Messages	anonymous
+2004-03-04	"Supplied argument is not a valid MySQL result resource"	Error Messages	anonymous
+2004-01-09	"ORA-00921: unexpected end of SQL command"	Error Messages	anonymous
+2003-08-15	"Chatologica MetaSearch" "stack tracking:"	Error Messages	anonymous
+2003-06-24	"Error Diagnostic Information" intitle:"Error Occurred While"	Error Messages	anonymous
+2003-06-24	"supplied argument is not a valid MySQL result resource"	Error Messages	anonymous

@@ -1,0 +1,120 @@
+2020-03-27	site:*/retrieve.php	Pages Containing Login Portals	Reza Abasi
+2020-03-27	inurl:8080/webinterface intitle:"crushftp"	Pages Containing Login Portals	Alexandros Pappas
+2020-03-27	intext:"Welcome! Log in or create an account to continue."	Pages Containing Login Portals	Alexandros Pappas
+2020-03-26	site:*/Citrix/storeweb	Pages Containing Login Portals	Nicholas Doropoulos
+2020-03-26	intext:"Welcome Admin"	Pages Containing Login Portals	Alexandros Pappas
+2020-03-26	intext:"This computer system is the property of" -error	Pages Containing Login Portals	Nicholas Doropoulos
+2020-03-26	inurl:/forgotpassword intext:"enter username and email"	Pages Containing Login Portals	Rafin Rahman Chowdhury
+2020-03-23	site:*/AdminPanel.aspx	Pages Containing Login Portals	Emre DURMAZ
+2020-03-23	site:*/LoginPanel.aspx	Pages Containing Login Portals	Emre DURMAZ
+2020-03-20	intext:"Please enter your new password" inurl:login filetype:php	Pages Containing Login Portals	Alexandros Pappas
+2020-03-16	intext:"please enter your username and password" inurl:login filetype:php	Pages Containing Login Portals	Nicholas Doropoulos
+2020-03-11	intitle:"Outlook Web App" inurl:"/owa/auth" logon ext:aspx	Pages Containing Login Portals	Ubaid Ahmed
+2020-03-05	intitle:"WEB SERVICE" intext:"Please install plugins first!"	Pages Containing Login Portals	yunaranyancat
+2020-03-05	inurl:"/jw/web/login"	Pages Containing Login Portals	yunaranyancat
+2020-03-05	inurl:"/login.htm?page=" intext:"Loading login page"	Pages Containing Login Portals	yunaranyancat
+2020-03-05	inurl:"serverpush.htm" intext:"Real-time"	Pages Containing Login Portals	yunaranyancat
+2020-03-05	inurl:manager/login	Pages Containing Login Portals	Juveria Banu
+2020-03-04	intitle:"Log In JIRA" inurl:"8080:/login.jsp"	Pages Containing Login Portals	Juveria Banu
+2020-03-04	inurl:"Orion/Login.aspx?ReturnUrl="	Pages Containing Login Portals	Hilary Soita
+2020-03-03	intext:OpenCart inurl:index.php?route=common/dashboard	Pages Containing Login Portals	UsmanAliMaan
+2020-03-03	intext:"Welcome to JIRA" "Powered by a free Atlassian Jira community"	Pages Containing Login Portals	Sagar Banwa
+2020-03-02	intitle:"Pentaho User Console - Login"	Pages Containing Login Portals	Pomodori
+2020-02-27	inurl:/_layouts/userdisp.aspx?id= intext:password	Pages Containing Login Portals	Wethenorthcvv
+2020-02-26	inurl:"auth.html" intitle:"SonicWall"	Pages Containing Login Portals	Hilary Soita
+2020-02-18	intitle:VMware intext:"VMware, Inc. All rights reserved." AND "Powered by VMware Studio"	Pages Containing Login Portals	CANCOM #RedTeam
+2020-02-10	inurl:"saw.dll" AND intitle:"Sign In"	Pages Containing Login Portals	Debashis Pal
+2020-02-10	intitle:VMware inurl:5480	Pages Containing Login Portals	Mohammed*_*
+2020-02-07	intitle:"RabbitMQ Management" inurl:15672	Pages Containing Login Portals	Mohammed*_*
+2020-02-06	intext:"Rubicon Communications, LLC (Netgate)" intitle:"Login"	Pages Containing Login Portals	berat isler
+2020-01-27	inurl:check_mk/login.py	Pages Containing Login Portals	UsmanAliMaan
+2020-01-27	intitle:Check_MK Multisite Login	Pages Containing Login Portals	UsmanAliMaan
+2020-01-23	intitle:"Sign in" site:*/idaas/	Pages Containing Login Portals	Reza Abasi
+2020-01-23	inurl:memberlogin.php	Pages Containing Login Portals	Reza Abasi
+2020-01-23	site:*/AdminPanel.php	Pages Containing Login Portals	Reza Abasi
+2020-01-10	intitle:"webview login" alcatel lucent	Pages Containing Login Portals	Bruno Schmid
+2020-01-09	intitle:"LABVANTAGE Logon"	Pages Containing Login Portals	Reza Abasi
+2020-01-09	site:*/cgi/domadmin.cgi	Pages Containing Login Portals	Reza Abasi
+2020-01-09	inurl:":8080/login.jsp?os_destination="	Pages Containing Login Portals	Reza Abasi
+2020-01-09	intext:"powered by codoforum" inurl:"/user/login"	Pages Containing Login Portals	Prasanth
+2020-01-06	inurl:":8080/login"	Pages Containing Login Portals	Reza Abasi
+2020-01-06	inurl:"/index.php?reconnect=1"	Pages Containing Login Portals	Reza Abasi
+2020-01-06	intitle:"Zabbix" intext:"username" intext:"password" inurl:"/zabbix/index.php"	Pages Containing Login Portals	Reza Abasi
+2019-12-30	inurl:"/webis/webis_login.html"	Pages Containing Login Portals	Ismail Tasdelen
+2019-12-30	intitle:"Check Point - Login"	Pages Containing Login Portals	Ismail Tasdelen
+2019-12-20	intitle:"Pfsense - Login"	Pages Containing Login Portals	berat isler
+2019-12-20	intitle:"WHMCS - Login" inurl:/admin/login.php	Pages Containing Login Portals	berat isler
+2019-12-20	intitle:"WebSite X5 Manager" inurl:/admin/login.php	Pages Containing Login Portals	berat isler
+2019-12-20	inurl:admin/login.php?login= intitle:"CMS"	Pages Containing Login Portals	berat isler
+2019-12-19	inurl:/login.aspx site:com.tr intitle:yönetim	Pages Containing Login Portals	berat isler
+2019-12-18	intext:"Service provided by Horos."	Pages Containing Login Portals	Leandro Naranjo
+2019-12-16	site:*/siteminderagent/forms/login.fcc	Pages Containing Login Portals	Reza Abasi
+2019-12-09	intext:"civicplus" "Login"	Pages Containing Login Portals	Zerconil
+2019-12-02	intitle:"TMSoft MyAuth Gateway 3" -DOWNLOAD	Pages Containing Login Portals	sh4d0w
+2019-12-02	intitle:MK-AUTH :: CONTEUDO RESTRITO -site:mk-auth.com.br	Pages Containing Login Portals	sh4d0w
+2019-12-02	inurl:10443/remote/login	Pages Containing Login Portals	sh4d0w
+2019-11-26	site:*/my.policy	Pages Containing Login Portals	MiningOmerta
+2019-11-22	inurl:login.jsp intitle:login	Pages Containing Login Portals	shivaGprasadh
+2019-11-20	intitle:odoo inurl:login "powered by odoo" "manage databases"	Pages Containing Login Portals	Dan Kritzinger
+2019-11-11	inurl:"/index.php?title=Special:Userlogin"	Pages Containing Login Portals	Reza Abasi
+2019-11-11	inurl:"/index.php?content=login"	Pages Containing Login Portals	Reza Abasi
+2019-11-11	inurl:"/index.php?p=login"	Pages Containing Login Portals	Reza Abasi
+2019-11-11	inurl:"/index.php?pageID=login"	Pages Containing Login Portals	Reza Abasi
+2019-11-11	inurl:"/index.php/main/login"	Pages Containing Login Portals	Reza Abasi
+2019-11-08	site:*/admin/password/reset	Pages Containing Login Portals	Reza Abasi
+2019-11-08	inurl:"/Admin/Forget.php"	Pages Containing Login Portals	Reza Abasi
+2019-11-08	site:*/auth_index.htm?lang=kr&loginvalue=0&port=0	Pages Containing Login Portals	Reza Abasi
+2019-11-08	site:*/cgi-bin/luci intext:"Authorization Required"	Pages Containing Login Portals	Reza Abasi
+2019-11-07	site:*/account/reset	Pages Containing Login Portals	Reza Abasi
+2019-11-06	inurl:"/password.php" intitle:"Forgot your password"	Pages Containing Login Portals	Reza Abasi
+2019-11-05	inurl:/webconsole/webpages/login.jsp	Pages Containing Login Portals	Mohammed*_*
+2019-11-05	inurl:.elasticbeanstalk.com/admin	Pages Containing Login Portals	Mohammed*_*
+2019-11-05	intitle:Metabase inurl:/dash	Pages Containing Login Portals	Mohammed*_*
+2019-11-04	redash inurl:/org_slug	Pages Containing Login Portals	Mohammed*_*
+2019-11-04	site:*/cb-forgot-login	Pages Containing Login Portals	Reza Abasi
+2019-10-30	intitle:"Pandora FMS mobile"	Pages Containing Login Portals	Debashis Pal
+2019-10-30	inurl:"/wp-login.php?action=lostpassword"	Pages Containing Login Portals	Reza Abasi
+2019-10-29	site:*/account/lost_password	Pages Containing Login Portals	Reza Abasi
+2019-10-28	intitle:"API Publisher- Login"	Pages Containing Login Portals	M. Cory Billington
+2019-10-28	site:passport.*.*/login	Pages Containing Login Portals	Reza Abasi
+2019-10-25	site:watch.*.*/login	Pages Containing Login Portals	Reza Abasi
+2019-10-25	site:*/Dashboard/ intitle:"login"	Pages Containing Login Portals	Reza Abasi
+2019-10-21	site:*/loginportal/ intitle:"login"	Pages Containing Login Portals	Reza Abasi
+2019-10-21	inurl:"/index.php?action=login"	Pages Containing Login Portals	Reza Abasi
+2019-10-21	site:*/password/remind	Pages Containing Login Portals	Reza Abasi
+2019-10-21	inurl:"BasicAuthenticator:LOCAL"	Pages Containing Login Portals	HackingHomebrewer
+2019-10-21	inurl:"/showLogin.cc?isMobile=false"	Pages Containing Login Portals	HackingHomebrewer
+2019-10-18	inurl:"apex/f?p="	Pages Containing Login Portals	Ibad Shah
+2019-10-18	site:*/oauth/authenticate	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:"/index.php?route=account/login"	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:"/index.php?gt=member/login"	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:"/index.php?r=site/login"	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:"/index.php/site/login"	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:/userlogin	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:/customerlogin	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:/clientlogin	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:/studentlogin	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:/stafflogin	Pages Containing Login Portals	Reza Abasi
+2019-10-18	site:*/usercp.php	Pages Containing Login Portals	Reza Abasi
+2019-10-18	inurl:"/index.php?page=login"	Pages Containing Login Portals	Reza Abasi
+2019-10-02	site:*/account/preferences	Pages Containing Login Portals	Reza Abasi
+2019-10-01	site:*/request-password-reset	Pages Containing Login Portals	Reza Abasi
+2019-09-27	inurl:/dana-na/ filetype:cgi	Pages Containing Login Portals	Francis Al Victoriano
+2019-09-26	site:*/wp-admin/user-edit.php	Pages Containing Login Portals	Reza Abasi
+2019-09-24	site:*/pwdform.htm	Pages Containing Login Portals	Reza Abasi
+2019-09-18	site:*/oauth2/authorize	Pages Containing Login Portals	Reza Abasi
+2019-09-17	site:* intitle:"reset password"	Pages Containing Login Portals	Paras Arora
+2019-09-17	inurl:webmail/src/login.php	Pages Containing Login Portals	Sravan7s
+2019-09-17	inurl:"/prweb/prwebLDAP1/"	Pages Containing Login Portals	Sravan7s
+2019-09-16	site:*/authzssl/forget_password	Pages Containing Login Portals	Reza Abasi
+2019-09-16	site:*/casAuthn/login.php	Pages Containing Login Portals	Reza Abasi
+2019-09-16	intitle:"login" site:welcome.*.*	Pages Containing Login Portals	Reza Abasi
+2019-09-12	site:*/index_signin.php	Pages Containing Login Portals	Reza Abasi
+2019-09-12	site:*/authUpdate intitle:"Account Access Help"	Pages Containing Login Portals	Reza Abasi
+2019-09-12	inurl:"/usp-core/app/authUpdate"	Pages Containing Login Portals	Reza Abasi
+2019-09-12	site:*:8443/login_up.php	Pages Containing Login Portals	MiningOmerta
+2019-09-12	intext:"Please log on to use the mikrotik hotspot service" intitle:"mikrotik hotspot >login" -github -site:mikrotik.com	Pages Containing Login Portals	Reza Abasi
+2019-09-12	site:cpanel.*.* intitle:"login" -site:forums.cpanel.net	Pages Containing Login Portals	Reza Abasi
+2019-09-10	site:*/nms/login intitle:"UNMS"	Pages Containing Login Portals	Reza Abasi
+2019-09-10	inurl:"/phpmyadmin/user_password.php" -inurl:git	Pages Containing Login Portals	Reza Abasi
+2019-09-10	inurl:"/SecureAuth.aspx"

@@ -1,0 +1,120 @@
+2020-03-17	intitle:"index of" "jwt-auth"	Sensitive Directories	Rohit Gautam
+2020-03-17	intitle:"index of" "/concrete/Authentication"	Sensitive Directories	Rohit Gautam
+2020-03-16	intitle:"index of" "metadata"	Sensitive Directories	Alexandros Pappas
+2020-03-16	intitle:"index of" "maven-metadata.xml" "Port 80"	Sensitive Directories	Rohit Gautam
+2020-03-16	intitle:"index of" "apache-log-parser" "Port 80"	Sensitive Directories	Rohit Gautam
+2020-03-16	intitle:"index of" inurl:wp-json embedurl?	Sensitive Directories	Rohit Gautam
+2020-03-11	intitle:"index of" "config.py"	Sensitive Directories	Juveria Banu
+2020-03-04	intext:"index of /" ".composer-auth.json"	Sensitive Directories	Pranshu Tiwari
+2020-03-02	inurl:"/includes/OAuth2" intext:"index of /"	Sensitive Directories	Sagar Banwa
+2020-03-02	inurl:"/includes/api/" intext:"index of /"	Sensitive Directories	Sagar Banwa
+2020-02-24	inurl:concrete/config/	Sensitive Directories	Sagar Banwa
+2020-02-21	intitle:"index of" "*php.swp"	Sensitive Directories	Hilary Soita
+2020-02-21	intitle:"index of" "htdocs.zip"	Sensitive Directories	Hilary Soita
+2020-02-19	intitle:index.of "db.zip"	Sensitive Directories	Hilary Soita
+2020-02-17	intitle:index.of "backwpup"	Sensitive Directories	Gaurav Solanki
+2020-01-29	intitle:"index of" "/Cloudflare-CPanel-7.0.1"	Sensitive Directories	Pankaj Kumar Thakur
+2020-01-28	intitle:"index of" "ftp.log"	Sensitive Directories	Pankaj Kumar Thakur
+2020-01-28	intitle:"index of" "sms.log"	Sensitive Directories	Pankaj Kumar Thakur
+2020-01-28	-pool intitle:"index of" wget-log -pub	Sensitive Directories	Bruno Schmid
+2020-01-27	intitle:"index of" .zshrc~ OR .zshrc OR .zshenv OR .zshenv~ -pool -public	Sensitive Directories	Bruno Schmid
+2020-01-27	intitle:"index of" .oracle_jre_usage/	Sensitive Directories	Bruno Schmid
+2020-01-27	-pub -pool intitle:"index of" squirrelmail/	Sensitive Directories	Bruno Schmid
+2020-01-27	-pub -pool intitle:"index of" vagrantfile -"How to"	Sensitive Directories	Bruno Schmid
+2020-01-27	intitle:"index of" api_key OR "api key" OR apiKey -pool	Sensitive Directories	Bruno Schmid
+2020-01-27	intitle:"index of" domain.key -public	Sensitive Directories	Bruno Schmid
+2020-01-23	"key" OR key.jar intitle:"index of" webstart	Sensitive Directories	Bruno Schmid
+2019-12-30	index of /storage/logs/	Sensitive Directories	Osman Arif
+2019-11-20	intitle:index.of "chroot.conf"	Sensitive Directories	Pankaj Kumar Thakur
+2019-11-20	intitle:index of "uploads"	Sensitive Directories	Rohitreddy
+2019-11-11	intitle:"index of" "ws_ftp.log"	Sensitive Directories	Reza Abasi
+2019-11-11	intitle:index.of "htaccess.txt"	Sensitive Directories	Ismail Tasdelen
+2019-11-07	intext:"index of" intext:..bak intext:config	Sensitive Directories	Mattias Borg
+2019-11-05	site:* index.of: /android/manifest.xml	Sensitive Directories	Paras Arora
+2019-11-04	intitle:index.of "system.db"	Sensitive Directories	Ismail Tasdelen
+2019-10-30	intitle:index.of "database.db"	Sensitive Directories	Ismail Tasdelen
+2019-10-29	intitle:"Index of" wp-upload	Sensitive Directories	Ismail Tasdelen
+2019-10-29	site:*/logs/default.htm	Sensitive Directories	Reza Abasi
+2019-10-22	site:* index of: /config	Sensitive Directories	Paras Arora
+2019-10-18	site:* index of: *.exe	Sensitive Directories	Paras Arora
+2019-10-18	intitle:"Index of" secret	Sensitive Directories	Francis Al Victoriano
+2019-10-18	intitle:"index of" "/etc/mysql/"	Sensitive Directories	Reza Abasi
+2019-10-18	inurl:/wp-content/uploads/ninja-forms/ intitle:"index of"	Sensitive Directories	derezzed
+2019-09-18	intitle:index.of "admin.db"	Sensitive Directories	The Dexter
+2019-09-18	intitle:index.of "admin" filetype:sql	Sensitive Directories	The Dexter
+2019-09-18	indexof:backup/web.config	Sensitive Directories	Vyshnav nk
+2019-09-17	indexof:backup/mysql	Sensitive Directories	Sanyam Chawla
+2019-09-16	indexof:.htaccess	Sensitive Directories	Mayur Parmar
+2019-09-12	intitle:index.of./.htaccess	Sensitive Directories	Thejus Krishnan
+2019-09-10	inurl:/wp-admin/includes/plugin-install.php	Sensitive Directories	Mayur Parmar
+2019-09-10	site:ftp.* index of /ftp/backup	Sensitive Directories	Paras Arora
+2019-09-10	inurl:wp-content intext:backup-db	Sensitive Directories	Kaustubh Kale
+2019-09-10	inurl:/_vti_txt*	Sensitive Directories	Renato Hormazabal
+2019-09-05	inurl:/scgi-bin*	Sensitive Directories	MiningOmerta
+2019-09-04	inurl: /upload.php intitle:index of	Sensitive Directories	Abhishek Samaddar
+2019-09-03	inurl:admin/data* intext:index of	Sensitive Directories	Abhishek Samaddar
+2019-09-03	inurl:/database* ext:sql intext:index of -site:github.com	Sensitive Directories	Abhishek Samaddar
+2019-09-02	inurl:/admin/ intitle:index.of	Sensitive Directories	Abhishek Samaddar
+2019-08-27	inurl:/wp/wp-admin/	Sensitive Directories	Reza Abasi
+2019-08-27	intitle:"index of" /config.ini	Sensitive Directories	Reza Abasi
+2019-08-27	site:*/wordpress/wordpress.bak/	Sensitive Directories	Reza Abasi
+2019-08-27	intitle:index.of.?.login	Sensitive Directories	Akhil G Krishnan
+2019-08-26	index of /cache	Sensitive Directories	Nisankh Acharjya
+2019-08-26	intitle:index.of.?.database	Sensitive Directories	Midhun Biju
+2019-08-22	intitle:"index of" /content/admin/	Sensitive Directories	Reza Abasi
+2019-08-22	intitle:"index of" /content/uploads/ -inurl:/wp-content/uploads/	Sensitive Directories	Reza Abasi
+2019-08-21	site:*/wp-contents/ inurl:/wp-contents/	Sensitive Directories	Reza Abasi
+2019-08-21	site:*/wp-includes/ inurl:/wp-includes/	Sensitive Directories	Reza Abasi
+2019-08-21	intitle:index.of.?.mysql	Sensitive Directories	Nanda Krishna
+2019-08-20	intitle:"index of" /php4/	Sensitive Directories	Reza Abasi
+2019-08-20	intitle:"index of" mysqli.ini	Sensitive Directories	Reza Abasi
+2019-08-20	intitle:"index of" ssh2.ini	Sensitive Directories	Reza Abasi
+2019-08-19	intitle:index.of./.db	Sensitive Directories	Hari Prasad T.
+2019-08-19	intitle:index.of.?.bak	Sensitive Directories	Abhishek Sidharth
+2019-08-16	intitle:index.of./.sql	Sensitive Directories	Sourajeet Majumder
+2019-08-16	intitle:"Index of" login.php	Sensitive Directories	Sathishshan
+2019-08-16	intitle:"Index of" wp-config.php	Sensitive Directories	Sathishshan
+2019-08-12	intitle:"index of" sql inurl:./db/	Sensitive Directories	BLAY ABU SAFIAN
+2019-08-12	inurl:/sites/default/private	Sensitive Directories	Frédéric Meunier
+2019-08-07	intitle:"index of" admin	Sensitive Directories	Coudry hugo
+2019-08-07	intitle:"index of" drupal	Sensitive Directories	Coudry hugo
+2019-08-05	intitle:"Index of" inurl:wp-json/oembed	Sensitive Directories	Tejas Jain
+2019-08-05	intitle:"Index of" phpmyadmin	Sensitive Directories	Mayur Parmar
+2019-08-05	intitle:"Index of" wp-admin	Sensitive Directories	Sathishshan
+2019-08-02	intitle:index.of.?.sql	Sensitive Directories	Anil Tom
+2019-08-02	inurl: /filemanager/dialog.php	Sensitive Directories	Aditya shende
+2019-08-02	"Index of" inurl:webalizer	Sensitive Directories	Adrian Roy Lorica
+2019-08-02	"Index of" inurl:phpmyadmin	Sensitive Directories	Adrian Roy Lorica
+2019-08-02	"Index of" inurl:htdocs inurl:xampp	Sensitive Directories	Adrian Roy Lorica
+2019-07-30	intitle:"Index of" wp-content	Sensitive Directories	Mayur Parmar
+2019-07-30	intitle:"Index of" wp-config	Sensitive Directories	Mayur Parmar
+2019-07-26	intitle:"Index of" portal	Sensitive Directories	Scott FCS
+2019-07-25	intitle:"Index of" public	Sensitive Directories	Francis Al Victoriano
+2019-07-24	intitle:"Index of" phpinfo.php	Sensitive Directories	Ayan Saha
+2019-07-15	"Index of" inurl:config inurl:production	Sensitive Directories	Isaiah Puzon
+2019-06-24	Index of / *.ovpn	Sensitive Directories	nuria_pp
+2019-06-20	Inurl : /list/hdd1	Sensitive Directories	l0n1s
+2019-06-19	"To Parent Directory" AND "dir>" AND "web.config"	Sensitive Directories	Isaiah Puzon
+2019-06-06	intitle:"index of" intext:"Includes wordpress"	Sensitive Directories	Needa Petkar
+2019-06-05	intitle:"index of" intext:"Includes	Sensitive Directories	Deepak Joshi
+2019-05-29	filetype:svn -gitlab -github inurl:"/.svn"	Sensitive Directories	Alfie
+2019-05-29	filetype:git -github.com inurl:"/.git"	Sensitive Directories	Alfie
+2019-05-21	inurl:bc.googleusercontent.com intitle:index of	Sensitive Directories	acc3ssp0int
+2019-04-22	intitle:"index of" scada	Sensitive Directories	Aman Bhardwaj
+2019-04-11	"/var/cache/registry/"	Sensitive Directories	deadroot
+2019-04-10	type:mil inurl:ftp ext:pdf | ps	Sensitive Directories	botsec0
+2019-04-04	allintitle: "index of/admin"	Sensitive Directories	Ashwin Rajeev
+2019-04-03	intitle:"Directory Listing For" "Filename" intext:Tomcat/5.0.28	Sensitive Directories	Jayson Zabate
+2019-04-03	intitle: "Index of" intext:log	Sensitive Directories	Jayson Zabate
+2019-04-03	intitle:"index of" ".cpanel/caches/config/"	Sensitive Directories	Inspira Enterprise Pvt Ltd
+2019-04-03	intitle: "index of" "./" "./bitcoin"	Sensitive Directories	Inspira Enterprise Pvt Ltd
+2019-03-26	intitle: "index of" "includes"	Sensitive Directories	Jayson Zabate
+2019-03-25	inurl:/uploads/wc-logs/	Sensitive Directories	R3VANBASTARD
+2019-03-25	intitle:"index of" "db"	Sensitive Directories	Jayson Zabate
+2019-03-04	inurl:/files/contao	Sensitive Directories	PsycoR
+2019-03-04	inurl:typo3conf/l10n/	Sensitive Directories	PsycoR
+2019-03-01	intitle:"index of" ".dockerignore"	Sensitive Directories	Inspira Enterprise Pvt Ltd
+2019-03-01	intitle:"index of" "/aws.s3/"	Sensitive Directories	Inspira Enterprise Pvt Ltd
+2019-02-22	intitle:"index of" ".pem"	Sensitive Directories	Inspira Enterprise Pvt Ltd
+2019-02-22	intitle:"index of" "/bitcoin/"	Sensitive Directories	Inspira Enterprise Pvt Ltd
+2019-02-18	"description" & "size" intitle:"index of" "owncloud"	Sensitive Directories	Bruno Schmid

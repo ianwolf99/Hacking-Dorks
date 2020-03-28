@@ -1,0 +1,120 @@
+2020-03-20	"Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"	Web Server Detection	Alexandros Pappas
+2020-03-16	intitle:"index of" "powered by apache " "port 80"	Web Server Detection	Rohit Gautam
+2020-03-09	intitle:"Web Server's Default Page" intext:"hosting using Plesk" -www	Web Server Detection	Ubaid Ahmed
+2020-03-02	site:ftp.*.com "Web File Manager"	Web Server Detection	Harshit Shukla
+2020-02-24	intitle:"Welcome to JBoss"	Web Server Detection	PUNIT DARJI
+2020-02-04	intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!" intext:"Thank you for"	Web Server Detection	Reza Abasi
+2020-01-28	intitle:"index of" "Served by Sun-ONE"	Web Server Detection	Bruno Schmid
+2020-01-27	-pub -pool intitle:"index of" "Served by" "Web Server"	Web Server Detection	Bruno Schmid
+2020-01-23	intitle:"index of" "server at"	Web Server Detection	Bruno Schmid
+2019-09-24	site:*/server-status intext:"Apache server status for"	Web Server Detection	Reza Abasi
+2019-09-02	inurl:/iisstart.htm intitle:"IIS7"	Web Server Detection	Reza Abasi
+2019-08-30	inurl:/phpmyadmin/changelog.php -github -gitlab	Web Server Detection	24Nitin
+2019-08-12	inurl:"WebPortal?bankid"	Web Server Detection	ProSec GmbH
+2019-07-31	intitle:"Apache2 Ubuntu Default Page: It works"	Web Server Detection	Reza Abasi
+2019-07-31	intitle:"IIS Windows Server" -inurl:"IIS Windows Server"	Web Server Detection	Reza Abasi
+2019-07-29	inurl:/server-status + "Server MPM:"	Web Server Detection	ManhNho
+2019-06-24	inurl:phpinfo.php intext:build 2600	Web Server Detection	dorian
+2019-06-17	inurl:OrganizationChart.cc	Web Server Detection	mcandberry
+2019-06-17	intext:"Brought to you by eVetSites"	Web Server Detection	Zerconil
+2019-06-06	intext:"Powered by GetSimple" -site:get-simple.info	Web Server Detection	Dec0y
+2019-05-30	inurl:jsmol.php	Web Server Detection	Dec0y
+2019-05-29	intitle:"WAMPSERVER homepage" "Server Configuration" "Apache Version"	Web Server Detection	Rootkit_Pentester
+2019-03-18	"Powered by BOINC"	Web Server Detection	CrimsonTorso
+2019-02-15	"Proudly created with Wix.com"	Web Server Detection	FlyingFrog
+2019-01-14	"I have been invoked by servletToJSP"	Web Server Detection	g.go
+2019-01-14	intext:" - 2019 Cott Systems, Inc."	Web Server Detection	FlyingFrog
+2019-01-02	intitle:Test Page for the Nginx HTTP Server on Fedora	Web Server Detection	ManhNho
+2018-12-04	"Powered by vShare"	Web Server Detection	CrimsonTorso
+2018-11-14	intext:"Powered by Abyss Web Server"	Web Server Detection	Bruno Schmid
+2018-11-07	intitle: "Welcome to nginx!" + "Thank you for using nginx."	Web Server Detection	ManhNho
+2018-11-02	intitle:livezilla "Server Time"	Web Server Detection	maiki
+2018-11-01	intext:"Powered by phpSQLiteCMS" | intitle:"phpSQLiteCMS - A simple & lightweight CMS"	Web Server Detection	ManhNho
+2018-11-01	intitle:"Sucuri WebSite Firewall - Access Denied"	Web Server Detection	ManhNho
+2018-10-31	"This server is operated by OpenX."	Web Server Detection	CrimsonTorso
+2018-10-16	Coldbox | contentbox | commandbox "Powered by ContentBox"	Web Server Detection	Bruno Schmid
+2018-10-16	intext:"Powered by Nesta"	Web Server Detection	Bruno Schmid
+2018-10-16	intext:"Powered by Typesetter"	Web Server Detection	Bruno Schmid
+2018-10-16	intext:"Powered by (Quantum | Quantum CMS | CMS)	Web Server Detection	Bruno Schmid
+2018-09-20	intext:"Powered by Sentora" -github.com	Web Server Detection	Bruno Schmid
+2018-09-12	inurl:/_hcms/	Web Server Detection	Alfie
+2018-08-13	inurl:tests/mocks intext:autoloader	Web Server Detection	Athira M
+2018-07-19	intitle:HTTP Server Test Page powered by CentOS	Web Server Detection	ManhNho
+2018-06-22	intitle:"apache tomcat/" "Apache Tomcat examples"	Web Server Detection	KhanhNNVN
+2018-06-04	inurl:composer.json codeigniter -site:github.com	Web Server Detection	Anwar Ayoob
+2018-05-07	intitle:"apache tomcat/" + "Find additional important configuration information in:"	Web Server Detection	ManhNho
+2018-05-07	"RDServer Product information" | inurl:"/rdagent.jsp"	Web Server Detection	ManhNho
+2018-05-03	intitle:"Apache2 Debian Default Page: It works"	Web Server Detection	ManhNho
+2018-04-25	inurl:rvsindex.php & /rvsindex.php?/user/login	Web Server Detection	Alfie
+2018-04-06	intitle:"miniProxy"	Web Server Detection	_palonE
+2018-03-27	intitle:"Axis Happiness Page" "Examining webapp configuration"	Web Server Detection	Alwin Warringa
+2018-03-21	"var miner = new CoinHive" intext:document.domain	Web Server Detection	Alfie
+2018-03-07	inurl:"server-status" "Server Version: Apache/" "Server Built: " "Server uptime:" "Total accesses" "CPU Usage:"	Web Server Detection	Aamir Rehman
+2018-02-02	"Application Blocked!" "Google bot"	Web Server Detection	Rootkit_Pentester
+2017-10-31	inurl:readme.md intext:"Laravel"	Web Server Detection	Rejul Raghu
+2017-10-31	inurl:phpmyadmin/themes intext:"pmahomme"	Web Server Detection	Visakh V Nair
+2017-10-20	intext:"Welcome to CodeIgniter!"	Web Server Detection	anonymous
+2017-10-02	inurl:readme.rst intext:"CodeIgniter"	Web Server Detection	anonymous
+2017-06-27	intitle:"Index of" "Apache/2.4.7 (Ubuntu) Server"	Web Server Detection	anonymous
+2017-06-26	intitle:"Index of /" "Proudly Served by Surftown at"	Web Server Detection	anonymous
+2017-05-18	inurl:/pub/ inurl:_ri_	Web Server Detection	anonymous
+2017-05-18	inurl:/_catalogs	Web Server Detection	anonymous
+2017-03-01	ext:svc inurl:wsdl	Web Server Detection	anonymous
+2016-12-12	inurl:user_guide intext:"CodeIgniter User Guide"	Web Server Detection	anonymous
+2016-11-29	"PHP Credits" "Configuration" "PHP Core" ext:php inurl:info	Web Server Detection	anonymous
+2016-11-28	inurl:/php/info.php	Web Server Detection	anonymous
+2016-11-04	intitle:"HFS" "Server Uptime" "Server time"	Web Server Detection	anonymous
+2016-03-11	inurl:phpsysinfo/index.php?disp=dynamic	Web Server Detection	anonymous
+2016-02-26	intitle:"Apache Status" | intext:"Apache Server Status"	Web Server Detection	anonymous
+2016-02-17	intext:Apache/2.2.29 (Unix) mod_ssl/2.2.29 | intitle:"Index of /"	Web Server Detection	anonymous
+2015-10-15	inurl:"/web-console/" intitle:"Administration Console"	Web Server Detection	anonymous
+2015-06-23	filetype:asmx inurl:(_vti_bin|api|webservice)	Web Server Detection	anonymous
+2006-05-23	intitle:"BadBlue: the file-sharing web server anyone can use"	Web Server Detection	anonymous
+2006-05-03	intitle:"Apache Status" "Apache Server Status for"	Web Server Detection	anonymous
+2006-05-03	intext:"Target Multicast Group" "beacon"	Web Server Detection	anonymous
+2006-02-08	inurl:wl.exe inurl:?SS1= intext:"Operating system:" -edu -gov -mil	Web Server Detection	anonymous
+2005-11-16	inurl:nnls_brand.html OR inurl:nnls_nav.html	Web Server Detection	anonymous
+2005-05-30	(intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site:geocrawler.co	Web Server Detection	anonymous
+2005-05-20	intitle:"Welcome to 602LAN SUITE *"	Web Server Detection	anonymous
+2005-05-02	intitle:"Welcome To Your WebSTAR Home Page"	Web Server Detection	anonymous
+2005-05-02	intitle:"Document title goes here" intitle:"used by web search tools" " example of a simple Home Page"	Web Server Detection	anonymous
+2005-04-27	intitle:"Welcome to the Advanced Extranet Server, ADVX!"	Web Server Detection	anonymous
+2005-04-16	intitle:"Welcome to Windows Small Business Server 2003"	Web Server Detection	anonymous
+2005-03-31	yaws.*.server.at	Web Server Detection	anonymous
+2005-03-29	intitle:"Index of *" mode links bytes last-changed name	Web Server Detection	anonymous
+2005-03-29	intitle:"IPC@CHIP Infopage"	Web Server Detection	anonymous
+2005-03-20	intitle:"Test Page for the Apache HTTP Server on Fedora Core" intext:"Fedora Core Test Page"	Web Server Detection	anonymous
+2005-03-18	Powered.by.RaidenHTTPD intitle:index.of	Web Server Detection	anonymous
+2005-03-05	(inurl:81-cobalt | inurl:cgi-bin/.cobalt)	Web Server Detection	anonymous
+2005-02-15	intitle:"welcome to mono xsp"	Web Server Detection	anonymous
+2005-01-27	inurl:oraweb -site:oraweb.org	Web Server Detection	anonymous
+2005-01-26	"Netware * Home" inurl:nav.html	Web Server Detection	anonymous
+2005-01-21	XAMPP "inurl:xampp/index"	Web Server Detection	anonymous
+2004-12-13	allintext:"Powered by LionMax Software" "WWW File Share"	Web Server Detection	anonymous
+2004-12-13	inurl:2506/jana-admin	Web Server Detection	anonymous
+2004-11-30	intitle:"Resin Default Home Page"	Web Server Detection	anonymous
+2004-11-28	intitle:"Welcome To Xitami" -site:xitami.com	Web Server Detection	anonymous
+2004-11-13	intitle:"Welcome to Your New Home Page!" "by the Debian release"	Web Server Detection	anonymous
+2004-11-07	"About Mac OS Personal Web Sharing"	Web Server Detection	anonymous
+2004-11-07	"Switch to table format" inurl:table|plain	Web Server Detection	anonymous
+2004-10-12	intitle:"Object not found!" intext:"Apache/2.0.* (Linux/SuSE)"	Web Server Detection	anonymous
+2004-10-12	intitle:"Lotus Domino Go Webserver:" "Tuning your webserver" -site:ibm.com	Web Server Detection	anonymous
+2004-10-12	intitle:"Directory Listing, Index of /*/"	Web Server Detection	anonymous
+2004-10-12	intitle:"error 404" "From RFC 2068 "	Web Server Detection	anonymous
+2004-10-12	intitle:"Open WebMail" "Open WebMail version (2.20|2.21|2.30) "	Web Server Detection	anonymous
+2004-10-09	intitle:"Object not found" netware "apache 1.."	Web Server Detection	anonymous
+2004-09-26	intitle:AnswerBook2 inurl:ab2/ (inurl:8888 | inurl:8889)	Web Server Detection	anonymous
+2004-08-16	intext:"404 Object Not Found" Microsoft-IIS/5.0	Web Server Detection	anonymous
+2004-07-29	"powered by" "shoutstats" hourly daily	Web Server Detection	anonymous
+2004-07-29	intitle:"Shoutcast Administrator"	Web Server Detection	anonymous
+2004-07-26	"Novell, Inc" WEBACCESS Username Password "Version *.*" Copyright -inurl:help -guides|guide	Web Server Detection	anonymous
+2004-07-19	"AnWeb/1.42h" intitle:index.of	Web Server Detection	anonymous
+2004-07-19	"CERN httpd 3.0B (VAX VMS)"	Web Server Detection	anonymous
+2004-07-19	"JRun Web Server" intitle:index.of	Web Server Detection	anonymous
+2004-07-19	"MaXX/3.1" intitle:index.of	Web Server Detection	anonymous
+2004-07-19	"Microsoft-IIS/* server at" intitle:index.of	Web Server Detection	anonymous
+2004-07-19	"Microsoft-IIS/4.0" intitle:index.of	Web Server Detection	anonymous
+2004-07-19	"Red Hat Secure/3.0 server at"	Web Server Detection	anonymous
+2004-07-19	fitweb-wwws * server at intitle:index.of	Web Server Detection	anonymous
+2004-07-19	"Red Hat Secure/2.0"	Web Server Detection	anonymous
+2004-07-19	sEDWebserver * server +at intitle:index.of	Web Server Detection	anonymous

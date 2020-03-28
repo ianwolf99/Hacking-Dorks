@@ -1,0 +1,97 @@
+2020-03-18	intitle:("Index of") AND intext:("c99.txt" OR "c100.txt")	Footholds	Debashis Pal
+2020-03-18	intitle:("Mini Shell") AND intext:("Upload File")	Footholds	Debashis Pal
+2020-03-16	intitle:"(SSI Web Shell)" AND intext:"(ls -al)"	Footholds	Debashis Pal
+2020-02-18	site:bamboo.*.* ext:action build	Footholds	ex16x41
+2019-11-22	inurl:"index of" wso	Footholds	Santhosh Kumar Kuppan
+2019-11-20	intitle:"freedom is real - 1945"	Footholds	Jakob Denlinger
+2019-09-26	site:*/wp-admin/install.php intitle:WordPress Installation	Footholds	Reza Abasi
+2019-09-16	inurl:"index.php?db="	Footholds	The Dexter
+2019-08-12	intitle:Administration - Installation - MantisBT	Footholds	Mr.XSecr3t
+2019-07-15	inurl:/phpmyadmin/index.php?db=	Footholds	ManhNho
+2019-05-08	inurl:"cs.html?url="	Footholds	Dec0y
+2019-05-08	inurl:"urlstatusgo.html?url=" -intext:"Disallowed by URL filter"	Footholds	Dec0y
+2019-04-15	inurl:wp-login.php?action=register	Footholds	Randsec
+2019-03-01	inurl:/phpMyAdmin/setup/index.php?phpMyAdmin=	Footholds	Ehsan Nikavar
+2019-02-11	inurl:"/sidekiq/busy"	Footholds	Alfie
+2019-02-05	intitle:"InfluxDB - Admin Interface" -github	Footholds	Brain Reflow
+2019-01-18	intitle:"FCKeditor - Uploaders Tests"	Footholds	Burov Konstantin
+2019-01-18	intitle:"FCKeditor - Connectors Tests"	Footholds	Burov Konstantin
+2018-09-10	intext:"M3R1C4 SHELL BACKDOOR"	Footholds	ManhNho
+2018-08-21	"index of" /wp-content/uploads/shell.php	Footholds	Gionathan Reale
+2018-08-20	"File Manager - Current disk free"	Footholds	srikwit
+2018-08-17	inurl: "Mister Spy" | intext:"Mister Spy & Souheyl Bypass Shell"	Footholds	Gionathan Reale
+2018-08-02	inurl:"/tiny_mce/plugins/ajaxfilemanager/inc/data.php" | inurl:"/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php" -github	Footholds	Ebad uddin Ahmad
+2018-05-02	intitle:Upload inurl:/cgi-bin/filechucker.cgi	Footholds	Parth S. Patel
+2018-04-09	intitle:"Installing TYPO3 CMS"	Footholds	_palonE
+2018-02-21	inurl:/install/stringnames.txt	Footholds	Nisankh Acharjya
+2018-01-15	intitle:"Solr Admin" "Solr Query Syntax"	Footholds	Dxtroyer
+2018-01-02	ext:jsp intext:"jspspy" intitle:"Jspspy web~shell V1.0"	Footholds	Huijun Chen
+2017-06-27	"Sorting Logs:" "Please enter your password" "Powered By" -urlscan -alamy	Footholds	anonymous
+2017-05-31	intitle:"Authorization" "TF" inurl:"admin.php"	Footholds	anonymous
+2017-05-25	ext:php intext:"-rwxr-xr-x" site:.in	Footholds	anonymous
+2017-05-17	intitle:index of intext:@WanaDecryptor@.exe	Footholds	anonymous
+2017-05-15	intitle:index of intext:wncry	Footholds	anonymous
+2017-05-11	inurl:"go.cgi?url="	Footholds	anonymous
+2017-05-01	"WHMCS Auto Xploiter"	Footholds	anonymous
+2017-04-12	"El Moujahidin Bypass Shell" ext:php	Footholds	anonymous
+2017-04-10	intitle:"Priv8 Mailer Inbox 2015" ext:php	Footholds	anonymous
+2017-03-27	( ext:php ) ( inurl:/wp-content/uploads/AAPL/loaders/ )	Footholds	anonymous
+2017-03-01	inurl:?filesrc=**** ~"Current" ~"asp"	Footholds	anonymous
+2017-01-23	inurl:/\\filesrc=**** ~"Current" ~":/" ~"upload"	Footholds	anonymous
+2016-11-29	"PHP Mailer" "priv8 Mailer" ext:php	Footholds	anonymous
+2016-11-29	Meg4-Mail ext:php	Footholds	anonymous
+2016-11-28	"PHP eMailer is created by" ext:php	Footholds	anonymous
+2016-11-23	"File Manager Version 1.0" "Coded By"	Footholds	anonymous
+2016-10-03	inurl:"html/js/editor/ckeditor/"	Footholds	anonymous
+2016-09-27	"You have selected the following files for upload (0 Files)."	Footholds	anonymous
+2016-09-13	intitle:"nstview v2.1:: nst.void.ru" | intext:"nsTView v2.1 :: nst.void.ru. Password: Host:"	Footholds	anonymous
+2016-09-08	filetype:php intext:Your Email: intext:Your Name: intext:Reply-To: intext:mailer	Footholds	anonymous
+2016-06-06	intitle:"Hamdida X_Shell Backd00r"	Footholds	anonymous
+2016-05-17	"Fenix Final Version v2.0" filetype:php	Footholds	anonymous
+2016-03-29	intitle:Automatic cPanel Finder/Cracker | 3xp1r3 Cyber Army	Footholds	anonymous
+2016-02-16	(intitle:"phpshell" OR intitle:"c99shell" OR intitle:"r57shell" OR intitle:"PHP Shell " OR intitle:"phpRemoteView") `rwx` "uname"	Footholds	anonymous
+2016-02-16	intitle: "phpshell" "Php Safe-Mode Bypass"	Footholds	anonymous
+2016-01-14	intitle:"Shell I" inurl:revslider inurl:error.php inurl:cmd	Footholds	anonymous
+2016-01-14	inurl:revslider inurl:temp inurl:update_extract inurl:sym1	Footholds	anonymous
+2016-01-01	intext:Developed By Black.Hack3r ext:php	Footholds	anonymous
+2016-01-01	intext:"Sw Bilgi" ext:php	Footholds	anonymous
+2016-01-01	ext:aspx intitle:aspxspy	Footholds	anonymous
+2016-01-01	ext:php intitle:"b374k"	Footholds	anonymous
+2016-01-01	intitle:"WSO " ext:php intext:"server ip" 2015 intext:" [ home ]"	Footholds	anonymous
+2015-12-31	crime24 stealer ext:txt	Footholds	anonymous
+2015-12-08	intext:"Please select file to upload:" ext:php	Footholds	anonymous
+2015-12-08	intext:"Thehacker - Agd_Scorp - BLaSTER - Cr@zy_King - KinSize - JeXToXiC - s3f4 - rx5"	Footholds	anonymous
+2015-09-15	inurl:sh3llZ/c99/	Footholds	anonymous
+2015-08-18	intitle:SN0X SHELL: WEEEEEEEEEEEEEEEEED	Footholds	anonymous
+2015-06-23	ext:asp intext:Smart.Shell 1.0 BY P0Uy@_$3r\/3R -	Footholds	anonymous
+2014-01-03	intitle:"=[ 1n73ct10n privat shell ]="	Footholds	anonymous
+2014-01-03	intitle:"WSO 2.4" [ Sec. Info ], [ Files ], [ Console ], [ Sql ], [ Php ], [ Safe mode ], [ String tools ], [ Bruteforce ], [ Network ], [ Self remove ]	Footholds	anonymous
+2013-11-25	intitle:"uploader by ghost-dz" ext:php	Footholds	anonymous
+2013-11-25	filetype:php intext:"!C99Shell v. 1.0 beta"	Footholds	anonymous
+2013-08-08	inurl:1337w0rm.php intitle:1337w0rm	Footholds	anonymous
+2012-11-02	intitle:C0ded By web.sniper	Footholds	anonymous
+2012-11-02	Re: inurl:"r00t.php"	Footholds	anonymous
+2012-11-02	Re: intitle:Priv8 SCR	Footholds	anonymous
+2011-09-26	inurl:"amfphp/browser/servicebrowser.swf"	Footholds	anonymous
+2011-01-09	allintext:"fs-admin.php"	Footholds	anonymous
+2006-05-03	(intitle:"SHOUTcast Administrator")|(intext:"U SHOUTcast D.N.A.S. Status")	Footholds	anonymous
+2006-03-15	(intitle:"WordPress ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Setup Configuration File")|(inurl:"setup-config.php?step=")	Footholds	anonymous
+2006-03-06	"index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )	Footholds	anonymous
+2006-02-08	"Please re-enter your password It must match exactly"	Footholds	anonymous
+2006-01-04	inurl:"tmtrack.dll?"	Footholds	anonymous
+2005-10-06	inurl:polly/CP	Footholds	anonymous
+2005-09-25	intitle:"net2ftp" "powered by net2ftp" inurl:ftp OR intext:login OR inurl:login	Footholds	anonymous
+2005-08-15	intitle:MyShell 1.1.0 build 20010923	Footholds	anonymous
+2005-05-02	intitle:"YALA: Yet Another LDAP Administrator"	Footholds	anonymous
+2005-04-27	intitle:"ERROR: The requested URL could not be retrieved" "While trying to retrieve the URL" "The following error was encountered:"	Footholds	anonymous
+2004-12-19	inurl:"phpOracleAdmin/php" -download -cvs	Footholds	anonymous
+2004-11-28	filetype:php HAXPLORER "Server Files Browser"	Footholds	anonymous
+2004-11-28	PHPKonsole PHPShell filetype:php -echo	Footholds	anonymous
+2004-11-06	inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx	Footholds	anonymous
+2004-10-22	(inurl:81/cgi-bin/.cobalt/) | (intext:"Welcome to the Cobalt RaQ")	Footholds	anonymous
+2004-10-09	intitle:"Web Data Administrator - Login"	Footholds	anonymous
+2004-07-20	"adding new user" inurl:addnewuser -"there are no domains"	Footholds	anonymous
+2004-07-12	intitle:"PHP Shell *" "Enable stderr" filetype:php	Footholds	anonymous
+2004-07-12	"Powered by PHPFM" filetype:php -username	Footholds	anonymous
+2004-05-20	+htpasswd +WS_FTP.LOG filetype:log	Footholds	anonymous
+2003-09-09	intitle:admin intitle:login

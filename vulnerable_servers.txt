@@ -1,0 +1,95 @@
+2019-10-01	"Powered by vBulletin Version 5.5.4"	Vulnerable Servers	anonymous
+2018-05-16	inurl:"q=user/password"	Vulnerable Servers	Ebad uddin Ahmad
+2018-04-17	inurl:"/user/register" "Powered by Drupal" -CAPTCHA -"Access denied"	Vulnerable Servers	Pancaker
+2018-03-05	inurl:"index.php?option=com_joomanager"	Vulnerable Servers	Ankit Anubhav
+2017-07-24	inurl:/proc/self/cwd	Vulnerable Servers	DigiP
+2017-01-19	"dirLIST - PHP Directory Lister" "Banned files: php | php3 | php4 | php5 | htaccess | htpasswd | asp | aspx" "index of" ext:php	Vulnerable Servers	anonymous
+2015-03-16	allintext:Copyright Smart PHP Poll. All Rights Reserved. -exploit	Vulnerable Servers	anonymous
+2015-03-04	allinurl:moadmin.php -google -github	Vulnerable Servers	anonymous
+2014-12-22	inurl:/elfinder/elfinder.html+intitle:"elFinder 2.0" 	Vulnerable Servers	anonymous
+2014-11-03	inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site:github.com	Vulnerable Servers	anonymous
+2014-11-03	inurl:CHANGELOG.txt intext:drupal intext:"SA-CORE" -intext:7.32 -site:github.com -site:drupal.org	Vulnerable Servers	anonymous
+2014-10-02	ext:cgi inurl:cgi-bin intext:#!/bin/bash	Vulnerable Servers	anonymous
+2014-05-05	"OpenSSL" AND "1.0.1 Server at" OR "1.0.1a Server at" OR "1.0.1b Server at" OR "1.0.1c Server at" OR "1.0.1d Server at" OR "1.0.1e Server at" OR "1.0.1f Server at"	Vulnerable Servers	anonymous
+2014-02-05	inurl:"/reports/rwservlet" intext:"Oracle"	Vulnerable Servers	anonymous
+2013-11-25	inurl:"struts" filetype:action	Vulnerable Servers	anonymous
+2013-08-08	inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin	Vulnerable Servers	anonymous
+2012-12-31	intext:SQL syntax & inurl:index.php?=id & inurl:gov & inurl:gov	Vulnerable Servers	anonymous
+2012-12-31	inurl:/wp-content/w3tc/dbcache/	Vulnerable Servers	anonymous
+2012-08-21	intext: intext: intext: intext: intext:	Vulnerable Servers	anonymous
+2012-05-15	intitle:awen+intitle:asp.net	Vulnerable Servers	anonymous
+2012-05-15	intitle:"-N3t" filetype:php undetectable	Vulnerable Servers	anonymous
+2011-12-23	inurl:.php intitle:- BOFF 1.0 intext:[ Sec. Info ]	Vulnerable Servers	anonymous
+2011-11-25	filetype:php inurl:tiki-index.php +sirius +1.9.*	Vulnerable Servers	anonymous
+2011-11-24	filetype:php inanchor:c99 inurl:c99 intitle:c99shell -seeds -marijuana	Vulnerable Servers	anonymous
+2011-11-19	inurl:php intitle:"Cpanel , FTP CraCkeR"	Vulnerable Servers	anonymous
+2011-10-11	intitle:#k4raeL - sh3LL	Vulnerable Servers	anonymous
+2011-09-26	inurl:view.php?board1_sn=	Vulnerable Servers	anonymous
+2011-07-26	intitle:m1n1 1.01	Vulnerable Servers	anonymous
+2011-05-03	intitle:Locus7shell intext:"Software:"	Vulnerable Servers	anonymous
+2011-03-23	intitle:"[EasyPHP] - Administration"	Vulnerable Servers	anonymous
+2011-02-24	MySQL: ON MSSQL: OFF Oracle: OFF MSSQL: OFF PostgreSQL: OFF cURL: ON WGet: ON Fetch: OFF Perl: ON	Vulnerable Servers	anonymous
+2011-02-24	intitle:cyber anarchy shell	Vulnerable Servers	anonymous
+2010-12-10	inurl:/vb/install/upgrade.php	Vulnerable Servers	anonymous
+2010-12-10	inurl:/vb/install/install.php	Vulnerable Servers	anonymous
+2010-12-09	"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to"	Vulnerable Servers	anonymous
+2010-12-08	"www.*.com - c99shell" OR "www.*.net - c99shell" OR "www.*.org - c99shell"	Vulnerable Servers	anonymous
+2010-12-07	"r57shell 1.4"	Vulnerable Servers	anonymous
+2010-12-07	"r57shell"	Vulnerable Servers	anonymous
+2010-12-07	"[ phpinfo ] [ php.ini ] [ cpu ] [ mem ] [ users ] [ tmp ] [ delete ]"	Vulnerable Servers	anonymous
+2010-12-07	"safe_mode: * PHP version: * cURL: * MySQL: * MSSQL: * PostgreSQL: * Oracle: *"	Vulnerable Servers	anonymous
+2010-11-15	inurl:"read.php?datespan="	Vulnerable Servers	anonymous
+2010-11-15	intitle:"A Better ASP User Gallery"	Vulnerable Servers	anonymous
+2010-11-15	allinurl: In YoUr Dream Lamerz	Vulnerable Servers	anonymous
+2010-11-15	"intitle:t3al shmeh"	Vulnerable Servers	anonymous
+2010-11-15	: inurll ', -font => '{Verdana} 8 bold') ->pack ( -side => "top" , -anchor => 'e' ) ;	Vulnerable Servers	anonymous
+2010-11-15	allinurl: op=viewslink&sid=	Vulnerable Servers	anonymous
+2010-11-13	http://www.google.com/search?q=inurl%3Aindex.php%3Fpagedb%3Drss	Vulnerable Servers	anonymous
+2006-05-03	intitle:"Uploader - Uploader v6" -pixloads.com	Vulnerable Servers	anonymous
+2006-04-25	intitle:"MvBlog powered"	Vulnerable Servers	anonymous
+2006-02-03	intitle:"Horde :: My Portal" -"[Tickets"	Vulnerable Servers	anonymous
+2006-01-22	inurl:rpSys.html	Vulnerable Servers	anonymous
+2006-01-16	filetype:pl intitle:"Ultraboard Setup"	Vulnerable Servers	anonymous
+2005-09-17	"Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin	Vulnerable Servers	anonymous
+2005-09-16	XOOPS Custom Installation	Vulnerable Servers	anonymous
+2005-09-15	"you can now password" | "this is a special page only seen by you. your profile visitors" inurl:imchaos	Vulnerable Servers	anonymous
+2005-07-03	"set up the administrator user" inurl:pivot	Vulnerable Servers	anonymous
+2005-06-11	"html allowed" guestbook	Vulnerable Servers	anonymous
+2005-03-19	"Powered by: vBulletin Version 1.1.5"	Vulnerable Servers	anonymous
+2005-01-26	inurl:"/NSearch/AdminServlet"	Vulnerable Servers	anonymous
+2005-01-06	inurl:servlet/webacc	Vulnerable Servers	anonymous
+2004-12-27	"There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row	Vulnerable Servers	anonymous
+2004-12-04	intitle:"Mail Server CMailServer Webmail" "5.2"	Vulnerable Servers	anonymous
+2004-11-07	inurl:newsdesk.cgi? inurl:"t="	Vulnerable Servers	anonymous
+2004-11-07	(inurl:/shop.cgi/page=) | (inurl:/shop.pl/page=)	Vulnerable Servers	anonymous
+2004-11-06	inurl:aol*/_do/rss_popup?blogID=	Vulnerable Servers	anonymous
+2004-11-05	natterchat inurl:home.asp -site:natterchat.co.uk	Vulnerable Servers	anonymous
+2004-10-31	intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"	Vulnerable Servers	anonymous
+2004-08-21	intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"	Vulnerable Servers	anonymous
+2004-08-20	"ftp://" "www.eastgame.net"	Vulnerable Servers	anonymous
+2004-08-13	intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -Forums	Vulnerable Servers	anonymous
+2004-07-29	allinurl:"index.php" "site=sglinks"	Vulnerable Servers	anonymous
+2004-07-29	inurl:"index.php?module=ew_filemanager"	Vulnerable Servers	anonymous
+2004-07-26	("Indexed.By"|"Monitored.By") hAcxFtpScan	Vulnerable Servers	anonymous
+2004-07-26	filetype:cgi inurl:"fileman.cgi"	Vulnerable Servers	anonymous
+2004-07-26	filetype:cgi inurl:"Web_Store.cgi"	Vulnerable Servers	anonymous
+2004-06-04	filetype:php inurl:vAuthenticate	Vulnerable Servers	anonymous
+2004-06-04	"Welcome to the Prestige Web-Based Configurator"	Vulnerable Servers	anonymous
+2004-05-04	intitle:"Samba Web Administration Tool" intext:"Help Workgroup"	Vulnerable Servers	anonymous
+2004-04-28	intitle:"Gateway Configuration Menu"	Vulnerable Servers	anonymous
+2004-04-28	inurl:pls/admin_/gateway.htm	Vulnerable Servers	anonymous
+2004-04-06	allinurl:install/install.php	Vulnerable Servers	anonymous
+2004-03-29	"Select a database to view" intitle:"filemaker pro"	Vulnerable Servers	anonymous
+2004-03-29	allinurl:intranet admin	Vulnerable Servers	anonymous
+2004-03-18	"Welcome to PHP-Nuke" congratulations	Vulnerable Servers	anonymous
+2004-03-14	inurl:info.inc.php	Vulnerable Servers	anonymous
+2004-03-14	inurl:footer.inc.php	Vulnerable Servers	anonymous
+2004-03-04	"YaBB SE Dev Team"	Vulnerable Servers	anonymous
+2004-03-04	intitle:"Gallery in Configuration mode"	Vulnerable Servers	anonymous
+2004-03-04	intitle:osCommerce inurl:admin intext:"redistributable under the GNU"intext:"Online Catalog" -demo -site:oscommerce.com	Vulnerable Servers	anonymous
+2004-03-04	inurl:ManyServers.htm	Vulnerable Servers	anonymous
+2004-03-04	intitle:"Terminal Services Web Connection"	Vulnerable Servers	anonymous
+2004-03-04	intitle:"Remote Desktop Web Connection"	Vulnerable Servers	anonymous
+2004-03-04	"Welcome to Intranet"	Vulnerable Servers	anonymous
+2004-03-04	inurl:search.php vbulletin	Vulnerable Servers	anonymous
+2003-07-08	inurl:shop "Hassan Consulting's Shopping Cart Version 1.18"	Vulnerable Servers	anonymous
