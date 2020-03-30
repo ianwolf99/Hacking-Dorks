@@ -1,0 +1,15 @@
+
+    intext: passwords filetype: txt
+    mysql history files
+    intext: account details filetype: txt
+    intitle:index.of intext:”secring .skr”|&q…
+    people.lst
+    passwd
+    master.passwd
+    pwd.db
+    htpasswd / htpasswd.bak
+    htpasswd / htgroup
+    spwd.db / passwd
+    passwd / etc (reliable)
+    config.php
+    passlist
